@@ -7,5 +7,5 @@ export const TeamContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-bottom: 5rem;
+  padding: 0 2.5rem 5rem 2.5rem;
 `;
