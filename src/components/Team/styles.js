@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const TeamContainer = styled.div`
-  width: 90%;
+  width: 100%;
   height: 100%;
   background-color: #48484C;
   display: flex;

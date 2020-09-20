@@ -13,7 +13,7 @@ export const Title = styled.h1`
   margin: 0;
   font-size: 2.25rem;
   font-weight: 600;
-  padding-left: 9rem;
+  padding-left: 4rem;
   color: #FFFFFF;
   letter-spacing: 1px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,7 +22,7 @@ export const Title = styled.h1`
 export const Description = styled.p`
   font-size: 1rem;
   font-weight: 400;
-  padding-left: 9rem;
+  padding-left: 4rem;
   color: #FFFFFF;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 `;
@@ -33,11 +33,11 @@ export const Collection = styled.div`
 `;
 
 export const Cards = styled.section`
-  width: 90%;
-  max-width: 380px;
+  
+  max-width: 1000px;
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 20px;
 `;
 

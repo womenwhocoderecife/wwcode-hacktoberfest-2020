@@ -13,10 +13,18 @@ export default function Directors() {
     <Container>
       <Title>Directors</Title>
       <Description>
-        Organiza eventos | Desenvolve Líderes | Colabora com o aumento do número
-        de membros | Representa WWCode
+        Organiza eventos | 
+        Desenvolve Líderes | 
+        Colabora com o aumento do número de membros | 
+        Representa WWCode
       </Description>
         <Cards>
+          <Card>
+            <h1>Test card</h1>
+          </Card>
+          <Card>
+            <h1>Test card</h1>
+          </Card>
           <Card>
             <h1>Test card</h1>
           </Card>

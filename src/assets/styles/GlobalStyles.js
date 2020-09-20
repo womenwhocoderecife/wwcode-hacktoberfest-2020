@@ -9,6 +9,8 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     background: ${colors?.primaryDark};
     color: ${colors?.neutral};
+    display: flex;
+    justify-content: center;
   }
 
   html { 
