@@ -1,4 +1,4 @@
 export const fonts = {
-  fontBase: "'Inter', sans-serif",
-  fontAlpha: "'Roboto', 'Helvetica', 'Arial', sans-serif",
+  base: "'Inter', sans-serif",
+  alpha: "'Montserrat', sans-serif;",
 };

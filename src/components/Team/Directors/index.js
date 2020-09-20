@@ -1,4 +1,5 @@
 import React from 'react';
+import { Subtitle } from '../../../shared-ui/Typography';
 
-const Directors = () => <h2>Directors</h2>;
+const Directors = () => <Subtitle>Directors</Subtitle>;
 export default Directors;
