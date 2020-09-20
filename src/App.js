@@ -1,17 +1,15 @@
-import React, {Component} from 'react';
+import React from 'react';
+import { Normalize } from 'styled-normalize';
+import GlobalStyles from './assets/styles/GlobalStyles';
 import Team from './components/Team';
 
-class App extends Component {
-  render() {
-    return (
-      <>
-      <div>
-        <h1>WWCode Recife in the Hacktoberfest 2020 </h1>
-        <Team/>
-      </div>
-      </>
-    )
-  }
-};
+const App = () => (
+  <div>
+    <Normalize />
+    <GlobalStyles />
+    <h1>WWCode Recife in the Hacktoberfest 2020 </h1>
+    <Team />
+  </div>
+);
 
 export default App;
