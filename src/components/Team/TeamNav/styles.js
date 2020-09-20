@@ -1,9 +1,11 @@
 import styled from "styled-components";
+import { colors } from '../../../assets/styles/colors';
+import { fonts } from '../../../assets/styles/typography';
 
 export const TeamNav = styled.div`
   width: 90%;
-  height: 5.25rem;
-  background-color: #00707A;
+  height: 180px !important;
+  background-color: ${colors.primary};
   text-align: center;
   margin-top: -2rem;
   display: flex;
@@ -14,8 +16,8 @@ export const TeamNav = styled.div`
 export const TeamLink = styled.a`
   font-size: 1rem;
   font-weight: bold;
-  color: #FFFFFF;
+  color: ${colors.neutral};
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: ${fonts.alpha};
 `;

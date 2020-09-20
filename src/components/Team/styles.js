@@ -1,11 +1,12 @@
-import styled from "styled-components";
+import styled from 'styled-components';
+import { colors } from '../../assets/styles/colors';
 
 export const TeamContainer = styled.div`
   width: 100%;
   height: 100%;
-  background-color: #48484C;
+  background-color: ${colors.primaryLight};
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0 2.5rem 5rem 2.5rem;
+  padding: 1rem 2.5rem 5rem 2.5rem;
 `;

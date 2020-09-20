@@ -14,7 +14,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html { 
-    font-family: ${fonts?.fontBase}
+    font-family: ${fonts?.base}
   }
 
   *,
@@ -23,4 +23,5 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
 `;
+
 export default GlobalStyles;
