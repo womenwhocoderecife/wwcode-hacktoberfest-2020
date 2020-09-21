@@ -16,7 +16,7 @@ import {
   Icon,
 } from "../../../shared-ui/Typography";
 
-const Directors = () => {
+const Evangelists = () => {
   const datas = [
     {
       photo:
@@ -66,4 +66,4 @@ const Directors = () => {
   );
 };
 
-export default Directors;
+export default Evangelists;

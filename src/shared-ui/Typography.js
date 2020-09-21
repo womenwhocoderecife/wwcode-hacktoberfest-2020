@@ -24,7 +24,7 @@ export const Text = styled.p`
 
 export const Container = styled.div`
   width: 100%;
-  height: 100%;
+  height: auto;
   background-color: ${colors.primaryLight};
   display: flex;
   flex-direction: column;
@@ -43,7 +43,7 @@ export const Function = styled(Text)`
 
 export const Cards = styled.section`
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 2rem auto 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 30px;
