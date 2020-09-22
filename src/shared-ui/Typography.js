@@ -26,7 +26,7 @@ export const Container = styled.div`
   width: 100%;
   height: auto;
   background-color: ${colors.primaryLight};
-  display: flex;
+  display: ${props => props.hide ? "none" : "flex"};
   flex-direction: column;
   padding: 5rem 0 0 0;
 `;
