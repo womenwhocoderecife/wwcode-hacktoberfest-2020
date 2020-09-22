@@ -10,7 +10,8 @@ const GlobalStyles = createGlobalStyle`
     background: ${colors?.primaryDark};
     color: ${colors?.neutral};
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
   }
 
   html { 

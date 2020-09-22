@@ -2,7 +2,6 @@ import styled from 'styled-components/macro';
 import { fonts } from '../assets/styles/typography';
 import { colors } from '../assets/styles/colors';
 
-
 export const Subtitle = styled.h2`
   font-family: ${fonts.alpha};
   font-style: normal;
@@ -26,7 +25,7 @@ export const Container = styled.div`
   width: 100%;
   height: auto;
   background-color: ${colors.primaryLight};
-  display: ${props => props.hide ? "none" : "flex"};
+  display: flex;
   flex-direction: column;
   padding: 5rem 0 0 0;
 `;
@@ -104,4 +103,8 @@ export const Icon = styled.img`
   width: 2.5rem;
   height: 2.5rem;
   margin: 0 1rem;
+`;
+
+export const Pink = styled.span`
+  color: ${colors?.primaryHighLight};
 `;
