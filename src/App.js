@@ -3,6 +3,8 @@ import { Normalize } from 'styled-normalize';
 import GlobalStyles from './assets/styles/GlobalStyles';
 import Team from './components/Team';
 import Hero from './components/Hero';
+import WomenWhoCode from './components/WomenWhoCode';
+
 
 
 const App = () => (
@@ -10,6 +12,7 @@ const App = () => (
     <Normalize/>
     <GlobalStyles/>
     <Hero/>
+    <WomenWhoCode/>
     <Team/>
   </div>
 );

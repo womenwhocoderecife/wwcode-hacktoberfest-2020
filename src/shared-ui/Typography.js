@@ -97,6 +97,7 @@ export const SocialContext = styled.div`
 
 export const Social = styled.a`
   cursor: pointer;
+  text-decoration: none;
 `;
 
 export const Icon = styled.img`

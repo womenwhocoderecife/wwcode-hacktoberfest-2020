@@ -34,6 +34,7 @@ export const Statement = styled(Subtitle)`
 export const Context = styled(Text)`
   font-family: ${fonts.base};
   text-align: center;
+  line-height: 1.4rem;
   max-width: 48rem;
   padding: 0;
   margin: 0;
