@@ -30,7 +30,7 @@ const WomenWhoCode = () => (
       alcançando mais de 20 países.
     </Statement>
     <Explanation>
-      Faça parte da comunidade, acompanhe os eventos e oportunidades! 
+      Faça parte da comunidade, acompanhe os eventos e oportunidades!
       <Social href="https://www.womenwhocode.com/" target="_blank">
         <PinkStrong> Conheça o site oficial do WWCODE! </PinkStrong>
       </Social>

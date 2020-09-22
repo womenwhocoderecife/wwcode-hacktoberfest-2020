@@ -67,5 +67,5 @@ export const Article = styled.article`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 105%;
+  width: 90%;
 `;
