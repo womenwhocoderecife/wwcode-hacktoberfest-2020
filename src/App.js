@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import WomenWhoCode from './components/WomenWhoCode';
 import WWCodeRecife from './components/WWCodeRecife';
 import Team from './components/Team';
+import Hacktoberfest from './components/Hacktoberfest';
 
 const App = () => (
   <>
@@ -14,6 +15,7 @@ const App = () => (
     <WomenWhoCode/>
     <WWCodeRecife/>
     <Team/>
+    <Hacktoberfest/>
   </>
 );
 
