@@ -4,7 +4,7 @@ import { Pink, Social } from "../../shared-ui/Typography";
 import { Statement, Session, Logo } from "./styles";
 
 const WWCodeRecife = () => (
-  <Session>
+  <Session id="WWCodeRecife">
     <Statement>
       Conheça a nossa comunidade em <Pink>Recife</Pink>, que tem como objetivo
       inspirar e colaborar para a insersão e o desenvolvimento de{" "}

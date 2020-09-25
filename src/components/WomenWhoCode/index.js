@@ -4,6 +4,7 @@ import { Pink, Social } from "../../shared-ui/Typography";
 import {
   Statement,
   Session,
+  LogoLink,
   Logo,
   Context,
   PinkStrong,
@@ -12,11 +13,11 @@ import {
 } from "./styles";
 
 const WomenWhoCode = () => (
-  <Session>
+  <Session id="womenWhoCode">
     <Article>
-      <Social href="https://www.womenwhocode.com/" target="_blank">
+      <LogoLink href="https://www.womenwhocode.com/" target="_blank">
         <Logo src={WWCode} />
-      </Social>
+      </LogoLink>
       <Context>
         O Women Who Code começou como um grupo comunitário em 2011, quando
         algumas tecnólogas decidiram que queriam mudar a experiência da

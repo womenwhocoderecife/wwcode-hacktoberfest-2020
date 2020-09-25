@@ -1,20 +1,31 @@
-import styled from 'styled-components/macro';
-import { fonts } from '../../assets/styles/typography';
-import {
-  Subtitle, 
-  Container
-} from "../../shared-ui/Typography";
+import styled from "styled-components/macro";
+import { fonts } from "../../assets/styles/typography";
+import { Subtitle, Container } from "../../shared-ui/Typography";
 
 export const Session = styled(Container)`
   background-color: transparent;
   padding: 4rem 0;
   align-items: center;
+  padding-top: 12%;
+
+  @media (max-width: 890px) {
+    padding-top: 18%;
+  }
+
+  @media (max-width: 420px) {
+    padding-top: 28%;
+  }
 `;
 
 export const Logo = styled.img`
-  padding: 4rem 0 1rem 0;
-  width: 47rem;
-`; 
+  width: 60%;
+  display: flex;
+  margin: 0 auto;
+
+  @media (max-width: 420px) {
+    width: 90%;
+  }
+`;
 
 export const Statement = styled(Subtitle)`
   font-family: ${fonts.base};

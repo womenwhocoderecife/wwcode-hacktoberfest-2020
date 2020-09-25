@@ -20,7 +20,7 @@ import {
 } from "./styles";
 
 const Hero = () => (
-  <Session>
+  <Session id="HacktoberFest">
     <Top src={CommingSoonPink} />
     <Statement>Hacktoberfest 2020</Statement>
     <Context>

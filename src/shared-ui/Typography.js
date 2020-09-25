@@ -1,6 +1,6 @@
-import styled from 'styled-components/macro';
-import { fonts } from '../assets/styles/typography';
-import { colors } from '../assets/styles/colors';
+import styled from "styled-components/macro";
+import { fonts } from "../assets/styles/typography";
+import { colors } from "../assets/styles/colors";
 
 export const Subtitle = styled.h2`
   font-family: ${fonts.alpha};
@@ -21,7 +21,7 @@ export const Text = styled.p`
   font-family: ${fonts.alpha};
 `;
 
-export const Container = styled.div`
+export const Container = styled.section`
   width: 100%;
   height: auto;
   background-color: ${colors.primaryLight};
@@ -57,7 +57,7 @@ export const Card = styled.article`
   color: ${colors.primary};
   width: 20rem;
   height: 37rem;
-  padding: 2rem; 
+  padding: 2rem;
 `;
 
 export const Photo = styled.img`
@@ -92,7 +92,7 @@ export const Description = styled(Text)`
 export const SocialContext = styled.div`
   display: flex;
   margin: 0;
-  bottom: 0
+  bottom: 0;
 `;
 
 export const Social = styled.a`
