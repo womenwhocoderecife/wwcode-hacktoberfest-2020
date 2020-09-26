@@ -2,10 +2,17 @@ import React from 'react';
 import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
 import CommingSoon from '../../assets/images/commingSoon.svg';
 import { Pink, Social } from '../../shared-ui/Typography';
-import { Statement, Session, Logo, Top, Context, PinkStrong } from './styles';
+import {
+  Statement,
+  Logo,
+  Top,
+  Context,
+  PinkStrong,
+  HeroSection,
+} from './styles';
 
 const Hero = () => (
-  <Session id="home">
+  <HeroSection id="home">
     <Top src={CommingSoon} />
     <Social href="https://hacktoberfest.digitalocean.com/" target="_blank">
       <Logo src={Hacktoberfest} />
@@ -26,7 +33,7 @@ const Hero = () => (
         </PinkStrong>
       </Social>
     </Context>
-  </Session>
+  </HeroSection>
 );
 
 export default Hero;

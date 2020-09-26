@@ -18,7 +18,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html { 
-    font-family: ${fonts?.base}
+    font-family: ${fonts?.base};
   }
 
   *,

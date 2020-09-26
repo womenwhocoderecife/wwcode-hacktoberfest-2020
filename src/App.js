@@ -15,9 +15,9 @@ const App = () => (
     <Header />
     <Hero />
     <WomenWhoCode />
-    <WWCodeRecife />
+    {/* <WWCodeRecife />
     <Team />
-    <HacktoberFest />
+    <HacktoberFest /> */}
   </>
 );
 

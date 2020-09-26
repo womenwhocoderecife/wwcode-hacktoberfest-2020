@@ -1,9 +1,9 @@
 import React from 'react';
 import WWCode from '../../assets/images/WomenWhoCode.png';
+import { Section } from '../../shared-ui/Layout';
 import { Pink, Social } from '../../shared-ui/Typography';
 import {
   Statement,
-  Session,
   LogoLink,
   Logo,
   Context,
@@ -13,7 +13,7 @@ import {
 } from './styles';
 
 const WomenWhoCode = () => (
-  <Session id="womenWhoCode">
+  <Section id="womenWhoCode">
     <Article>
       <LogoLink href="https://www.womenwhocode.com/" target="_blank">
         <Logo src={WWCode} />
@@ -39,8 +39,7 @@ const WomenWhoCode = () => (
       líderes do nosso movimento, abrindo caminho para a nova face da
       tecnologia.
     </Explanation>
-    <Context></Context>
-  </Session>
+  </Section>
 );
 
 export default WomenWhoCode;

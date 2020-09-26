@@ -4,6 +4,7 @@ export const colors = {
   neutralLight: '#93C2DB',
 
   primary: '#00707A',
+  primaryLighter: '#183d5d',
   primaryHighLight: '#FF8AE2',
   primaryDark: '#072540',
   primaryLight: '#48484C',

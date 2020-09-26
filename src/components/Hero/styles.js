@@ -1,20 +1,12 @@
 import styled from 'styled-components/macro';
+import { colors } from '../../assets/styles/colors';
 import { fonts } from '../../assets/styles/typography';
-import { Subtitle, Container, Pink, Text } from '../../shared-ui/Typography';
+import { Section } from '../../shared-ui/Layout';
+import { Subtitle, Pink, Text } from '../../shared-ui/Typography';
 
-export const Session = styled(Container)`
-  background: transparent;
-  padding: 100px 1rem 3rem 1rem;
-  font-size: 1.125rem;
-  font-weight: 400;
-  line-height: 1.5;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-
-  width: 100%;
+export const HeroSection = styled(Section)`
+  padding-top: 100px;
+  background-color: ${colors.primaryLighter};
 `;
 
 export const Top = styled.img`
