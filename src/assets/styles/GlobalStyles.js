@@ -1,7 +1,7 @@
-import { createGlobalStyle } from "styled-components/macro";
+import { createGlobalStyle } from 'styled-components/macro';
 
-import { fonts } from "./typography";
-import { colors } from "./colors";
+import { fonts } from './typography';
+import { colors } from './colors';
 
 const GlobalStyles = createGlobalStyle`
   html, body, #root {
@@ -12,8 +12,9 @@ const GlobalStyles = createGlobalStyle`
     display: flex;
     flex-direction: column;
     align-items: center;
-    overflow-y: scroll;
     scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 
   html { 
