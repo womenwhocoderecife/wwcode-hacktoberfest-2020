@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import logo from "../../assets/images/H_hacktoberfest.svg";
+import React, { useState, useEffect } from 'react';
+import logo from '../../assets/images/H_hacktoberfest.svg';
 
 import {
   HeaderStyle,
@@ -14,19 +14,19 @@ import {
   ToggleOne,
   ToggleTwo,
   ToggleThree,
-} from "./styles";
+} from './styles';
 
 export default function Header() {
   const [menuVisibility, setMenuVisibility] = useState(false);
-  const [activeSection, setActiveSection] = useState("#home");
+  const [activeSection, setActiveSection] = useState('#home');
   const [scroll, setScroll] = useState(window.scrollY);
 
   useEffect(() => {
-    window.addEventListener("scroll", () => {
+    window.addEventListener('scroll', () => {
       setScroll(window.scrollY);
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-          const id = entry.target.getAttribute("id");
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          const id = entry.target.getAttribute('id');
           if (entry.isIntersecting && entry.intersectionRatio > 0.3) {
             setActiveSection(`#${id}`);
           }
@@ -34,8 +34,8 @@ export default function Header() {
       });
 
       document
-        .querySelectorAll("section[id]")
-        .forEach((section) => observer.observe(section));
+        .querySelectorAll('section[id]')
+        .forEach(section => observer.observe(section));
     });
   }, []);
 

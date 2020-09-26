@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import fakeData from "../../data/fake_data.json";
-import Session from "./Session";
-import { TeamContainer, TeamNav, TeamLink } from "./styles";
+import React, { Component } from 'react';
+import fakeData from '../../data/fake_data.json';
+import Session from './Session';
+import { TeamContainer, TeamNav, TeamLink } from './styles';
 
 class Team extends Component {
   constructor() {
@@ -11,7 +11,7 @@ class Team extends Component {
     this.state = {
       menus: [
         {
-          name: "directors",
+          name: 'directors',
           comp: () => (
             <Session
               data={directors.data}
@@ -30,7 +30,8 @@ class Team extends Component {
             />
           ),
         },
-        { name: leads.title,
+        {
+          name: leads.title,
           comp: () => (
             <Session
               data={leads.data}
@@ -39,23 +40,26 @@ class Team extends Component {
             />
           ),
         },
-        { name: volunteers.title,
+        {
+          name: volunteers.title,
           comp: () => (
             <Session
               data={volunteers.data}
               title={volunteers.title}
               subtitle={volunteers.subtitle}
             />
-          ), 
+          ),
         },
-        { name: members.title,
+        {
+          name: members.title,
           comp: () => (
             <Session
               data={members.data}
               title={members.title}
               subtitle={members.subtitle}
             />
-          ), },
+          ),
+        },
       ],
       menuDefault: 0,
       session: null,

@@ -1,12 +1,12 @@
-import React from "react";
-import Hacktoberfest from "../../assets/images/hacktoberfest2020.svg";
-import CommingSoonPink from "../../assets/images/commingSoonPink.svg";
-import Twitter from "../../assets/images/twitter.svg";
-import Facebook from "../../assets/images/facebook.svg";
-import LinkedIn from "../../assets/images/linkedln.svg";
-import Discord from "../../assets/images/btn.svg";
+import React from 'react';
+import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
+import CommingSoonPink from '../../assets/images/commingSoonPink.svg';
+import Twitter from '../../assets/images/twitter.svg';
+import Facebook from '../../assets/images/facebook.svg';
+import LinkedIn from '../../assets/images/linkedln.svg';
+import Discord from '../../assets/images/btn.svg';
 
-import { Social } from "../../shared-ui/Typography";
+import { Social } from '../../shared-ui/Typography';
 import {
   Statement,
   Session,
@@ -17,7 +17,7 @@ import {
   Article,
   Contact,
   Button,
-} from "./styles";
+} from './styles';
 
 const Hero = () => (
   <Session id="HacktoberFest">

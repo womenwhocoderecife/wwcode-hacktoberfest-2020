@@ -1,8 +1,8 @@
-import React from "react";
-import Hacktoberfest from "../../assets/images/hacktoberfest2020.svg";
-import CommingSoon from "../../assets/images/commingSoon.svg";
-import { Pink, Social } from "../../shared-ui/Typography";
-import { Statement, Session, Logo, Top, Context, PinkStrong } from "./styles";
+import React from 'react';
+import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
+import CommingSoon from '../../assets/images/commingSoon.svg';
+import { Pink, Social } from '../../shared-ui/Typography';
+import { Statement, Session, Logo, Top, Context, PinkStrong } from './styles';
 
 const Hero = () => (
   <Session id="home">

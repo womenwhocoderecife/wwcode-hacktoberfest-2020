@@ -1,6 +1,6 @@
-import styled from "styled-components/macro";
-import { fonts } from "../assets/styles/typography";
-import { colors } from "../assets/styles/colors";
+import styled from 'styled-components/macro';
+import { fonts } from '../assets/styles/typography';
+import { colors } from '../assets/styles/colors';
 
 export const Subtitle = styled.h2`
   font-family: ${fonts.alpha};

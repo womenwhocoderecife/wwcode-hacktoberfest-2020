@@ -1,12 +1,12 @@
-import styled from "styled-components/macro";
-import { fonts } from "../../assets/styles/typography";
+import styled from 'styled-components/macro';
+import { fonts } from '../../assets/styles/typography';
 import {
   Subtitle,
   Container,
   Pink,
   Text,
   Social,
-} from "../../shared-ui/Typography";
+} from '../../shared-ui/Typography';
 
 export const Session = styled(Container)`
   background-color: transparent;

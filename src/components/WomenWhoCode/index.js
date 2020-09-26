@@ -1,6 +1,6 @@
-import React from "react";
-import WWCode from "../../assets/images/WomenWhoCode.png";
-import { Pink, Social } from "../../shared-ui/Typography";
+import React from 'react';
+import WWCode from '../../assets/images/WomenWhoCode.png';
+import { Pink, Social } from '../../shared-ui/Typography';
 import {
   Statement,
   Session,
@@ -10,7 +10,7 @@ import {
   PinkStrong,
   Article,
   Explanation,
-} from "./styles";
+} from './styles';
 
 const WomenWhoCode = () => (
   <Session id="womenWhoCode">
