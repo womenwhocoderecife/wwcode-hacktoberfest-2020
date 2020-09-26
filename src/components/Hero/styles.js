@@ -3,53 +3,59 @@ import { fonts } from '../../assets/styles/typography';
 import { Subtitle, Container, Pink, Text } from '../../shared-ui/Typography';
 
 export const Session = styled(Container)`
-  background-color: transparent;
-  padding: 3rem 0;
+  background: transparent;
+  padding: 100px 1rem 3rem 1rem;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.5;
+
+  display: flex;
   align-items: center;
-  padding-top: 12%;
+  justify-content: center;
+  flex-direction: column;
 
-  @media (max-width: 890px) {
-    padding-top: 18%;
-  }
-
-  @media (max-width: 420px) {
-    padding-top: 28%;
-  }
+  width: 100%;
 `;
 
 export const Top = styled.img`
-  padding: 1rem 0 0 0;
+  margin-top: 30px;
+  width: 100%;
+  max-width: 240px;
+  object-fit: contain;
+
+  @media (min-width: 540px) {
+    margin-top: 60px;
+  }
 `;
 
 export const Logo = styled.img`
+  max-width: 650px;
+  width: 100%;
+  object-fit: contain;
   padding: 2rem 0 1rem 0;
-  width: 60%;
-  display: flex;
-  margin: 0 auto;
-
-  @media (max-width: 420px) {
-    width: 90%;
-  }
 `;
 
 export const Statement = styled(Subtitle)`
   font-family: ${fonts.base};
-  font-size: 3rem;
-  line-height: 3.5rem;
+  font-size: 2rem;
+  line-height: 40px;
   text-align: center;
-  max-width: 43rem;
+  max-width: 870px;
+  width: 100%;
   padding: 1rem 0;
 
-  @media (max-width: 780px) {
-    font-size: 2rem;
+  @media (min-width: 780px) {
+    font-size: 3rem;
+    line-height: 60px;
   }
 `;
 
 export const Context = styled(Text)`
+  max-width: 870px;
+  width: 100%;
   font-family: ${fonts.base};
   text-align: center;
   line-height: 1.4rem;
-  max-width: 48rem;
   padding: 0;
   margin: 0;
 `;
