@@ -1,20 +1,9 @@
 import styled from 'styled-components/macro';
 import { fonts } from '../../assets/styles/typography';
-import { Subtitle, Container, Text } from '../../shared-ui/Typography';
-
-export const Session = styled(Container)`
-  background-color: transparent;
-  padding: 3rem 0;
-  align-items: center;
-`;
+import { Subtitle, Text } from '../../shared-ui/Typography';
 
 export const Top = styled.img`
   padding: 8rem 0 0 0;
-`;
-
-export const Logo = styled.img`
-  padding: 4rem 0 1rem 0;
-  width: 45rem;
 `;
 
 export const Statement = styled(Subtitle)`
