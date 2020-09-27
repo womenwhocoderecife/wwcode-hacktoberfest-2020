@@ -1,10 +1,13 @@
 import React from 'react';
-import CodeRecife from '../../assets/images/WWCodeRecife.png';
+
+import { Section } from '../../shared-ui/Layout';
 import { Pink, Social } from '../../shared-ui/Typography';
-import { Statement, Session, Logo } from './styles';
+import { Statement, Logo } from './styles';
+
+import CodeRecife from '../../assets/images/WWCodeRecife.png';
 
 const WWCodeRecife = () => (
-  <Session id="WWCodeRecife">
+  <Section id="WWCodeRecife">
     <Statement>
       Conheça a nossa comunidade em <Pink>Recife</Pink>, que tem como objetivo
       inspirar e colaborar para a insersão e o desenvolvimento de{' '}
@@ -13,7 +16,7 @@ const WWCodeRecife = () => (
     <Social href="https://linktr.ee/wwcoderecife" target="_blank">
       <Logo src={CodeRecife} />
     </Social>
-  </Session>
+  </Section>
 );
 
 export default WWCodeRecife;

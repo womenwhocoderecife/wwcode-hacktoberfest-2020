@@ -23,6 +23,7 @@ export const Top = styled.img`
 export const Logo = styled.img`
   max-width: 650px;
   width: 100%;
+  display: flex;
   object-fit: contain;
   padding: 2rem 0 1rem 0;
 `;
