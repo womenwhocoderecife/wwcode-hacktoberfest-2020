@@ -1,15 +1,19 @@
-import styled from 'styled-components';
+import styled from 'styled-components/macro';
 import { colors } from '../../assets/styles/colors';
 import { fonts } from '../../assets/styles/typography';
 
 export const TeamContainer = styled.div`
-  width: 67rem;
-  height: 100%;
   background-color: ${colors.primaryLight};
+  padding: 1rem 1rem 5rem 1rem;
+
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
-  padding: 1rem 2.5rem 5rem 2.5rem;
+
+  max-width: 1020px;
+  width: 100%;
+  height: 100%;
 `;
 
 export const TeamNav = styled.div`
@@ -18,9 +22,11 @@ export const TeamNav = styled.div`
   background-color: ${colors.primary};
   text-align: center;
   margin-top: -2rem;
+
   display: flex;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
 `;
 
 export const TeamLink = styled.a`
