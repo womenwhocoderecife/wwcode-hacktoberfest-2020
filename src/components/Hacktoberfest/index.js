@@ -3,7 +3,7 @@ import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
 import ParticipationPink from '../../assets/images/participationPink.svg';
 
 import Discord from '../../assets/images/btn.svg';
-import connections from '../../data/connections';
+import { connections } from '../../data/links';
 
 import { Social } from '../../shared-ui/Typography';
 import {
@@ -34,7 +34,7 @@ const Hero = () => (
 
     <Article>
       {connections.map(({ href, src }) => (
-        <Social href={href} target="_blank">
+        <Social key={src} href={href} target="_blank">
           <Contact src={src} />
         </Social>
       ))}
