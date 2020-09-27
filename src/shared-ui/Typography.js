@@ -22,12 +22,17 @@ export const Text = styled.p`
 `;
 
 export const Container = styled.section`
-  width: 100%;
   height: auto;
-  background-color: ${colors.primaryLight};
-  display: flex;
-  flex-direction: column;
+  max-width: 1020px;
+  width: 100%;
   padding: 5rem 0 0 0;
+
+  background-color: ${colors.primaryLight};
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 `;
 
 export const Title = styled(Subtitle)`
@@ -41,10 +46,13 @@ export const Function = styled(Text)`
 `;
 
 export const Cards = styled.section`
-  max-width: 1000px;
+  width: 95%;
   margin: 2rem auto 0 auto;
+
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-items: center;
+  align-items: center;
   grid-gap: 30px;
 `;
 
