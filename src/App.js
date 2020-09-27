@@ -8,6 +8,7 @@ import Hero from './components/Hero';
 import Team from './components/Team';
 import WomenWhoCode from './components/WomenWhoCode';
 import WWCodeRecife from './components/WWCodeRecife';
+import Footer from './components/Footer';
 
 const App = () => (
   <>
@@ -20,6 +21,7 @@ const App = () => (
     <WWCodeRecife />
     {/*  <Team /> */}
     <HacktoberFest />
+    <Footer />
   </>
 );
 
