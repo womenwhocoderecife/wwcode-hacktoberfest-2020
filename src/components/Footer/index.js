@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
+
 import LogoDigitalOcean from '../../assets/images/logo-digital-ocean.svg';
-import LogoTwitter from '../../assets/images/footer-twitter.svg';
-import LogoInstagram from '../../assets/images/footer-instagram.svg';
-import LogoDiscord from '../../assets/images/footer-discord.svg';
+import { legal, socialConnections } from '../../data/links';
+
 import {
   Tag,
   LogoDigital,
@@ -25,31 +25,18 @@ export default function Footer() {
       <Details>
         <Copyright>© 2020 DigitalOcean, LLC. All rights reserved.</Copyright>
         <MenuList>
+          {legal.map(({ href, name }, index) => (
+            <MenuItem key={index}>
+              <MenuItemLink href={href}>{name}</MenuItemLink>
+            </MenuItem>
+          ))}
+
           <MenuItem>
-            <MenuItemLink href="https://www.digitalocean.com/legal/terms-of-service-agreement/">
-              Terms
-            </MenuItemLink>
-          </MenuItem>
-          <MenuItem>
-            <MenuItemLink href="https://www.digitalocean.com/legal/privacy-policy/">
-              Privacy
-            </MenuItemLink>
-          </MenuItem>
-          <MenuItem>
-            <MenuItemLink href="https://do.co/hacktoberbrand">
-              Brand Guidelines
-            </MenuItemLink>
-          </MenuItem>
-          <MenuItem>
-            <MenuItemLink href="https://twitter.com/hacktoberfest">
-              <LogoSocialNetworks src={LogoTwitter} alt="Twitter" />
-            </MenuItemLink>
-            <MenuItemLink href="https://www.instagram.com/hacktoberfest/">
-              <LogoSocialNetworks src={LogoInstagram} alt="Instagram" />
-            </MenuItemLink>
-            <MenuItemLink href="https://discord.gg/hacktoberfest">
-              <LogoSocialNetworks src={LogoDiscord} alt="Discord" />
-            </MenuItemLink>
+            {socialConnections.map(({ href, src, alt }, index) => (
+              <MenuItemLink key={index} href={href}>
+                <LogoSocialNetworks src={src} alt={alt} />
+              </MenuItemLink>
+            ))}
           </MenuItem>
         </MenuList>
       </Details>

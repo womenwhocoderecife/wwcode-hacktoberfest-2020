@@ -18,7 +18,7 @@ export const TeamContainer = styled.div`
 
 export const TeamNav = styled.div`
   width: 95%;
-  height: 84px !important;
+  height: 84px;
   background-color: ${colors.primary};
   text-align: center;
   margin-top: -2rem;

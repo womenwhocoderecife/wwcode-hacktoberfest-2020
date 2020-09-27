@@ -2,7 +2,7 @@ import styled from 'styled-components/macro';
 import { colors } from '../../assets/styles/colors';
 
 export const Tag = styled.footer`
-  background: #010e28;
+  background: ${colors.primaryDarker};
   width: 100%;
   height: 26px;
   border-top-right-radius: 80px;
@@ -68,7 +68,7 @@ export const MenuItem = styled.li`
   padding: 0 8px;
 
   :last-of-type {
-    border-right: none !important;
+    border-right: none;
     display: flex;
   }
 

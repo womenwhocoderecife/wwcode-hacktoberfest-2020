@@ -3,7 +3,7 @@ import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
 import CommingSoonPink from '../../assets/images/commingSoonPink.svg';
 
 import Discord from '../../assets/images/btn.svg';
-import connections from '../../data/connections';
+import { connections } from '../../data/links';
 
 import { Social } from '../../shared-ui/Typography';
 import {
