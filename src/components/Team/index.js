@@ -1,99 +1,27 @@
-import React, { Component } from 'react';
-import fakeData from '../../data/fake_data.json';
+import React, { useState } from 'react';
+import team from '../../data/team';
 import Session from './Session';
 import { TeamContainer, TeamNav, TeamLink } from './styles';
 
-class Team extends Component {
-  constructor() {
-    super();
-    const { directors, evangelist, leads, volunteers, members } = fakeData;
+const Team = () => {
+  const [index, setIndex] = useState(0);
 
-    this.state = {
-      menus: [
-        {
-          name: 'directors',
-          comp: () => (
-            <Session
-              data={directors.data}
-              title={directors.title}
-              subtitle={directors.subtitle}
-            />
-          ),
-        },
-        {
-          name: evangelist.title,
-          comp: () => (
-            <Session
-              data={evangelist.data}
-              title={evangelist.title}
-              subtitle={evangelist.subtitle}
-            />
-          ),
-        },
-        {
-          name: leads.title,
-          comp: () => (
-            <Session
-              data={leads.data}
-              title={leads.title}
-              subtitle={leads.subtitle}
-            />
-          ),
-        },
-        {
-          name: volunteers.title,
-          comp: () => (
-            <Session
-              data={volunteers.data}
-              title={volunteers.title}
-              subtitle={volunteers.subtitle}
-            />
-          ),
-        },
-        {
-          name: members.title,
-          comp: () => (
-            <Session
-              data={members.data}
-              title={members.title}
-              subtitle={members.subtitle}
-            />
-          ),
-        },
-      ],
-      menuDefault: 0,
-      session: null,
-    };
-  }
-
-  componentDidMount() {
-    const { menuDefault } = this.state;
-    this.showSession(menuDefault);
-  }
-
-  createMenus() {
-    const { menus } = this.state;
-    return menus.map((m, i) => (
-      <TeamLink onClick={this.showSession.bind(this, i)} key={i}>
-        {m.name}
-      </TeamLink>
-    ));
-  }
-
-  showSession(index) {
-    const { menus } = this.state;
-    this.setState({ session: menus[index].comp() });
-  }
-
-  render() {
-    const { session } = this.state;
-    return (
-      <TeamContainer>
-        <TeamNav>{this.createMenus()}</TeamNav>
-        {session && session}
-      </TeamContainer>
-    );
-  }
-}
+  return (
+    <TeamContainer>
+      <TeamNav>
+        {team.map(({ title }, index) => (
+          <TeamLink onClick={() => setIndex(index)} key={index}>
+            {title}
+          </TeamLink>
+        ))}
+      </TeamNav>
+      <Session
+        data={team[index].data}
+        title={team[index].title}
+        subtitle={team[index].subtitle}
+      />
+    </TeamContainer>
+  );
+};
 
 export default Team;

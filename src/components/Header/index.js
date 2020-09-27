@@ -39,8 +39,6 @@ export default function Header() {
     });
   }, []);
 
-  console.log(menuVisibility);
-
   return (
     <HeaderStyle scroll={scroll}>
       <Container>
