@@ -34,7 +34,7 @@ const Hero = () => (
 
     <Article>
       {connections.map(({ href, src }) => (
-        <Social href={href} target="_blank">
+        <Social key={src} href={href} target="_blank">
           <Contact src={src} />
         </Social>
       ))}

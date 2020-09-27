@@ -15,13 +15,18 @@ export const Tag = styled.footer`
   align-items: center;
   padding: 32px;
   margin-top: 32px;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    margin-top: 80px;
+    height: 130px;
+    padding: 32px 0;
+  }
 `;
 
 export const LogoDigital = styled.img`
-  max-width: 240.86px;
-  width: 100%;
-  object-fit: contain;
-  padding: 2rem 0 1rem 0;
+  height: auto;
+  max-width: 100%;
 `;
 
 export const LogoSocialNetworks = styled.img`
@@ -33,10 +38,19 @@ export const Details = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-around;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    min-height: 60px;
+  }
 `;
 
 export const Copyright = styled.p`
   color: ${colors.neutralLight};
+
+  @media (max-width: 1024px) {
+    font-size: 12px;
+  }
 `;
 
 export const MenuList = styled.ul`
@@ -44,14 +58,27 @@ export const MenuList = styled.ul`
   display: flex;
   justify-content: center;
   list-style-type: none;
-  font-size: 16px !important;
+  font-size: 16px;
   margin: 0;
   padding: 0;
+
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
 `;
 
 export const MenuItem = styled.li`
   border-right: 1px solid ${colors.neutralLight};
   padding: 0 8px;
+
+  :last-of-type {
+    border-right: none !important;
+    display: flex;
+  }
+
+  :last-of-type a {
+    padding-right: 8px;
+  }
 `;
 
 export const MenuItemLink = styled.a`
