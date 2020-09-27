@@ -7,9 +7,10 @@ export const Article = styled.article`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   max-width: 1020px;
   width: 100%;
+  margin-top: 4rem;
+  padding-top: 2rem;
 
   @media (min-width: 890px) {
     flex-direction: row;
@@ -26,14 +27,18 @@ export const LogoLink = styled(Social)`
 `;
 
 export const Logo = styled.img`
+  display: block;
   max-width: 500px;
   width: 100%;
-  display: block;
   margin: 0 auto;
   object-fit: contain;
 `;
 
 export const Context = styled(Text)`
+  max-width: 450px;
+  width: 100%;
+  padding-top: 3rem;
+  margin: 0;
   font-family: ${fonts.base};
   font-weight: 300;
   font-size: 1.3rem;
@@ -41,11 +46,6 @@ export const Context = styled(Text)`
   letter-spacing: 0.01em;
   word-break: break-word;
   text-align: center;
-
-  max-width: 450px;
-  width: 100%;
-  padding-top: 3rem;
-  margin: 0;
 
   @media (min-width: 890px) {
     width: 50%;
@@ -55,35 +55,33 @@ export const Context = styled(Text)`
 `;
 
 export const Statement = styled(Subtitle)`
+  max-width: 1020px;
+  width: 100%;
+  padding: 3rem 0 0 0;
   font-family: ${fonts.base};
   font-size: 2rem;
   line-height: 2.8rem;
   font-weight: 700;
   text-align: center;
-  padding: 3rem 0 0 0;
-
-  max-width: 1020px;
-  width: 100%;
 `;
 
 export const Explanation = styled(Text)`
-  font-family: ${fonts.base};
-  text-align: center;
+  max-width: 1020px;
+  width: 100%;
   padding: 0;
   margin: 0;
+  text-align: center;
+  font-family: ${fonts.base};
   font-weight: 300;
   font-size: 1.1rem;
   line-height: 1.4rem;
   letter-spacing: 0.01em;
-
-  max-width: 1020px;
-  width: 100%;
 `;
 
 export const PinkStrong = styled(Pink)`
-  font-family: ${fonts.base};
-  text-align: center;
   padding: 0;
   margin: 0;
   font-weight: 700;
+  font-family: ${fonts.base};
+  text-align: center;
 `;

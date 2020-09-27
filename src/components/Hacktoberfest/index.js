@@ -1,11 +1,11 @@
 import React from 'react';
 import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
 import ParticipationPink from '../../assets/images/participationPink.svg';
-
 import Discord from '../../assets/images/btn.svg';
 import { connections } from '../../data/links';
-
 import { Social } from '../../shared-ui/Typography';
+import { Section } from '../../shared-ui/Layout';
+import { Logo } from '../Hero/styles';
 import {
   Statement,
   Top,
@@ -15,9 +15,6 @@ import {
   Contact,
   Button,
 } from './styles';
-
-import { Logo } from '../Hero/styles';
-import { Section } from '../../shared-ui/Layout';
 
 const Hero = () => (
   <Section id="HacktoberFest">
@@ -31,7 +28,6 @@ const Hero = () => (
       <Logo src={Hacktoberfest} />
     </Social>
     <Alert>SPREAD THE WORD</Alert>
-
     <Article>
       {connections.map(({ href, src }) => (
         <Social key={src} href={href} target="_blank">
@@ -39,7 +35,6 @@ const Hero = () => (
         </Social>
       ))}
     </Article>
-
     <Article>
       <Social href="https://discord.gg/hacktoberfest" target="_blank">
         <Button src={Discord} />

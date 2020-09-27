@@ -32,7 +32,6 @@ export default function Header() {
           }
         });
       });
-
       document
         .querySelectorAll('section[id]')
         .forEach(section => observer.observe(section));

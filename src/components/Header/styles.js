@@ -23,9 +23,9 @@ from{
 `;
 
 export const HeaderStyle = styled.header`
+  position: fixed;
   width: 100%;
   height: 116px;
-  position: fixed;
   background-color: ${props =>
     props.scroll > 0 ? '#071a297a' : colors.primaryDark};
 
@@ -35,11 +35,11 @@ export const HeaderStyle = styled.header`
 `;
 
 export const Container = styled.div`
-  width: 90%;
-  max-width: 980px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 90%;
+  max-width: 980px;
   padding: 1rem;
   margin: auto;
 
@@ -75,35 +75,30 @@ export const Nav = styled.nav`
   width: 100%;
 
   @media (max-width: 1024px) {
-    display: ${props => (props.menuVisibility ? 'flex' : 'none')};
-    width: 2%;
-
     position: absolute;
+    display: ${props => (props.menuVisibility ? 'flex' : 'none')};
+    justify-content: center;
+    width: 2%;
     top: 0;
     left: 0;
-
     width: 100vw;
     height: 100vh;
-
     background-color: ${colors.primaryDark};
-
     z-index: 10;
-
-    justify-content: center;
   }
 `;
 
 export const NavList = styled.ul`
-  width: 100%;
   display: flex;
   justify-content: space-evenly;
-  list-style: none;
+  width: 100%;
   padding-left: 0;
+  list-style: none;
 
   @media (max-width: 1024px) {
-    text-align: center;
     display: ${props => (props.menuVisibility ? 'flex' : 'none')};
     flex-direction: column;
+    text-align: center;
   }
 `;
 
@@ -118,8 +113,8 @@ export const ListItem = styled.li`
 export const ListLink = styled.a`
   text-decoration: none;
   text-transform: uppercase;
-  cursor: pointer;
   font-size: 1.2rem;
+  cursor: pointer;
   color: ${colors.neutralLight};
   transition: all 250ms linear 0s;
 
@@ -152,11 +147,11 @@ export const MenuToggle = styled.div`
 
 const ToggleLine = styled.div`
   @media (max-width: 1024px) {
-    background-color: ${colors.neutral};
     height: 5px;
     width: 100%;
     margin: 6px auto;
     transition-duration: 0.3s;
+    background-color: ${colors.neutral};
   }
 `;
 

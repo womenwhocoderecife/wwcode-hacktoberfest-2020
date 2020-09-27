@@ -1,10 +1,8 @@
 import React from 'react';
-
+import CodeRecife from '../../assets/images/WWCodeRecife.png';
 import { Section } from '../../shared-ui/Layout';
 import { Pink, Social } from '../../shared-ui/Typography';
 import { Statement, Logo } from './styles';
-
-import CodeRecife from '../../assets/images/WWCodeRecife.png';
 
 const WWCodeRecife = () => (
   <Section id="WWCodeRecife">

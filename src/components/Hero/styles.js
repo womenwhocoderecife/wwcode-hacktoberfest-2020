@@ -10,9 +10,9 @@ export const HeroSection = styled(Section)`
 `;
 
 export const Top = styled.img`
-  margin-top: 30px;
   width: 100%;
   max-width: 240px;
+  margin-top: 30px;
   object-fit: contain;
 
   @media (min-width: 540px) {
@@ -21,21 +21,21 @@ export const Top = styled.img`
 `;
 
 export const Logo = styled.img`
+  display: flex;
   max-width: 650px;
   width: 100%;
-  display: flex;
-  object-fit: contain;
   padding: 2rem 0 1rem 0;
+  object-fit: contain;
 `;
 
 export const Statement = styled(Subtitle)`
+  max-width: 870px;
+  width: 100%;
+  padding: 1rem 0;
   font-family: ${fonts.base};
   font-size: 2rem;
   line-height: 40px;
   text-align: center;
-  max-width: 870px;
-  width: 100%;
-  padding: 1rem 0;
 
   @media (min-width: 780px) {
     font-size: 3rem;
@@ -46,17 +46,17 @@ export const Statement = styled(Subtitle)`
 export const Context = styled(Text)`
   max-width: 870px;
   width: 100%;
+  padding: 0;
+  margin: 0;
   font-family: ${fonts.base};
   text-align: center;
   line-height: 1.4rem;
-  padding: 0;
-  margin: 0;
 `;
 
 export const PinkStrong = styled(Pink)`
-  font-family: ${fonts.base};
-  text-align: center;
   padding: 0;
   margin: 0;
   font-weight: 700;
+  font-family: ${fonts.base};
+  text-align: center;
 `;

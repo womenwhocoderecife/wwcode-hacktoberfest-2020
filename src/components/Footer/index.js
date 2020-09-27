@@ -1,5 +1,4 @@
 import React from 'react';
-
 import LogoDigitalOcean from '../../assets/images/logo-digital-ocean.svg';
 import { legal, socialConnections } from '../../data/links';
 
@@ -30,7 +29,6 @@ export default function Footer() {
               <MenuItemLink href={href}>{name}</MenuItemLink>
             </MenuItem>
           ))}
-
           <MenuItem>
             {socialConnections.map(({ href, src, alt }, index) => (
               <MenuItemLink key={index} href={href}>

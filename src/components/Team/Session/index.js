@@ -2,7 +2,7 @@ import React from 'react';
 import GitHub from '../../../assets/images/gitHub.svg';
 import Linkedin from '../../../assets/images/linkedIn.svg';
 import {
-  Container,
+  Content,
   Title,
   Function,
   Cards,
@@ -22,7 +22,7 @@ const Session = props => {
   const subtitle = props.subtitle || '';
 
   return (
-    <Container>
+    <Content>
       <Title>{title}</Title>
       <Function>{subtitle}</Function>
       <Cards>
@@ -44,7 +44,7 @@ const Session = props => {
             </Card>
           ))}
       </Cards>
-    </Container>
+    </Content>
   );
 };
 

@@ -42,7 +42,7 @@ export default [
     ],
   },
   {
-    title: 'Evangelist',
+    title: 'Evangelists',
     subtitle:
       'Colabora com a divulgação da comunidade | Mídia social | Post de eventos | Anfitrião de divulgação | Blogs | Fotografia',
     data: [

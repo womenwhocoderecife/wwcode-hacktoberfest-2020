@@ -7,30 +7,30 @@ export const Top = styled.img`
 `;
 
 export const Statement = styled(Subtitle)`
+  max-width: 43rem;
+  padding: 0;
   font-family: ${fonts.base};
   font-size: 2.7rem;
   line-height: 3rem;
   text-align: center;
-  max-width: 43rem;
-  padding: 0;
 `;
 
 export const Context = styled(Text)`
-  font-family: ${fonts.base};
-  text-align: center;
-  line-height: 1.4rem;
   max-width: 55rem;
   padding: 0;
   margin: 0;
+  font-family: ${fonts.base};
+  text-align: center;
+  line-height: 1.4rem;
 `;
 
 export const Alert = styled(Subtitle)`
+  margin: 3rem 0 0 0;
   font-family: ${fonts.base};
   font-weight: 600;
   font-size: 1.2rem;
   line-height: 1.4rem;
   text-align: center;
-  margin: 3rem 0 0 0;
 `;
 
 export const Article = styled.article`

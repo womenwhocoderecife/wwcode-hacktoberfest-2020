@@ -2,20 +2,20 @@ import styled from 'styled-components/macro';
 import { colors } from '../../assets/styles/colors';
 
 export const Tag = styled.footer`
-  background: ${colors.primaryDarker};
-  width: 100%;
-  height: 26px;
-  border-top-right-radius: 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
+  height: 26px;
   padding: 32px;
   margin-top: 32px;
+  background: ${colors.primaryDarker};
+  border-top-right-radius: 80px;
 
   @media (max-width: 600px) {
     flex-direction: column;
-    margin-top: 80px;
     height: 130px;
+    margin-top: 80px;
     padding: 32px 0;
   }
 `;
@@ -53,10 +53,10 @@ export const MenuList = styled.ul`
   position: relative;
   display: flex;
   justify-content: center;
-  list-style-type: none;
-  font-size: 16px;
   margin: 0;
   padding: 0;
+  list-style-type: none;
+  font-size: 16px;
 
   @media (max-width: 600px) {
     font-size: 12px;
@@ -78,8 +78,8 @@ export const MenuItem = styled.li`
 `;
 
 export const MenuItemLink = styled.a`
+  padding-right: 8px;
   color: ${colors.primaryHighLight};
   text-decoration: none;
-  padding-right: 8px;
   font-weight: bold;
 `;
