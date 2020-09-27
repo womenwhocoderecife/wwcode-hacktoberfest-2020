@@ -1,9 +1,5 @@
 import styled from 'styled-components/macro';
-import Footer from '.';
 import { colors } from '../../assets/styles/colors';
-import { fonts } from '../../assets/styles/typography';
-import { Section } from '../../shared-ui/Layout';
-import { Subtitle, Pink, Text } from '../../shared-ui/Typography';
 
 export const Tag = styled.footer`
   background: #010e28;
