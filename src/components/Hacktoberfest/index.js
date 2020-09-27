@@ -1,6 +1,6 @@
 import React from 'react';
 import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
-import CommingSoonPink from '../../assets/images/commingSoonPink.svg';
+import ParticipationPink from '../../assets/images/participationPink.svg';
 
 import Discord from '../../assets/images/btn.svg';
 import connections from '../../data/connections';
@@ -21,7 +21,7 @@ import { Section } from '../../shared-ui/Layout';
 
 const Hero = () => (
   <Section id="HacktoberFest">
-    <Top src={CommingSoonPink} />
+    <Top src={ParticipationPink} />
     <Statement>Hacktoberfest 2020</Statement>
     <Context>
       Hacktoberfest é uma celebração de um mês de software de código aberto

@@ -1,6 +1,6 @@
 import React from 'react';
 import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
-import CommingSoon from '../../assets/images/commingSoon.svg';
+import Participation from '../../assets/images/participation.svg';
 import { Pink, Social } from '../../shared-ui/Typography';
 import {
   Statement,
@@ -13,7 +13,7 @@ import {
 
 const Hero = () => (
   <HeroSection id="home">
-    <Top src={CommingSoon} />
+    <Top src={Participation} />
     <Social href="https://hacktoberfest.digitalocean.com/" target="_blank">
       <Logo src={Hacktoberfest} />
     </Social>
