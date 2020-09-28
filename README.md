@@ -91,14 +91,14 @@
 
 <br/>
 <h5><strong> 🖥️ Projeto Web inicial </strong> </h5>
-<h2 align="center" width="500px">
+<h2 align="center">
 
 ![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/web.gif)
 </h2>
 <br/>
 <h5><strong> 📱 Project versão responsiva </strong> Em contrução...🛠️ </h5>
 <br/>
-<h2 align="center" width="375px">
+<h2 align="center">
 
 ![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/mobile.gif)
 </h2>
