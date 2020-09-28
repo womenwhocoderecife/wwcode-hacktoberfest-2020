@@ -12,11 +12,11 @@
 <br/>
 <br/>
 <p align="center">
-  <a href="#memo-license">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#floppy_disk-technology">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#family_man_man_boy_boy-contribute">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#blue_heart-contributors">Contribuidores</a>
+  <a href="#memo-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#floppy_disk-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#family_man_man_boy_boy-contribuir">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#blue_heart-contribuidores">Contribuidores</a>
 </p>
 <br/>
 <br/>
@@ -28,11 +28,9 @@
 <br/>
 <h4>🌎  No intuito de colaborar e incentivar a participação de mais mulheres na comunidade  open source , um pull request  por vez, nós do <a href="https://www.womenwhocode.com/recife" target="_blank">Women Who Code Recife</a>, criamos um projeto para participarmos desta causa incrível, e toda comunidade poder colaborar com o projeto e completar os desafios </h4>
 <br/>
-<p>🎯 Antes de começar, garanta que você já faça parte nossa em Recife e se inscreva na páginal oficial de Recife no <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a></p>
-<h4><a href="https://membership.womenwhocode.com/email">Inscrições clicando aqui ✅</a></h4>
+<p>🎯 Antes de começar, garanta que você já faça parte da nossa comunidade em Recife e se inscreva na páginal oficial de Recife no <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a> - <stong><a href="https://membership.womenwhocode.com/email">Inscrições clicando aqui ✅</a></stong></p>
 <br/> 
 <p align="center">📲  <strong>Conheça e nos acompanhe em nossas redes sociais:</strong></p>
-<br/>
 <h3 align="center">
   <a href="https://github.com/womenwhocoderecife" target="_blank" width="80px" align="center">
     <img alt="Github" src=".github/github.svg" width="30px" align="center"/>
@@ -78,7 +76,8 @@
 
 ## :computer: Projeto
 <br/>
-<p>O projeto consiste em uma aplicação one-page que foi inspirado na página oficial do Hacktoberfest 2020. Nesta aplicação apresentamos o Hacktoberfest, Women Who Code e o <storng>Women Who Code Recife</storng>.</p>Logo abaixo uma seção onde é possível identificar um menu com categorias de partição na comunidade. Neste projeto cada pessoa poderá contribuir acrescentando um card na categoria de participação em que se identifica no WWCode Recife: Directors, Evangelists, Leads, Volunteers e Members.
+<p>O projeto consiste em uma aplicação one-page que foi inspirado na página oficial do Hacktoberfest 2020.<br/> Nesta aplicação apresentamos o Hacktoberfest, Women Who Code e o <storng>Women Who Code Recife</storng>.</p>
+<p>Logo abaixo uma seção onde é possível identificar um menu com categorias de partição na comunidade. Neste projeto cada pessoa poderá contribuir acrescentando um card na categoria de participação em que se identifica no WWCode Recife: Directors, Evangelists, Leads, Volunteers e Members.</p>
 <br/>
 <br/>
 <p>
@@ -90,9 +89,10 @@
 </a>
 </h3>
 
-
 <br/>
-<h3>Em contrução...🛠️ </h3>
+<h3><strong>Project Web inicial </strong> Em contrução...🛠️ </h3>
+<br/>
+<h3><strong>Project versão responsiva </strong> Em contrução...🛠️ </h3>
 <br/>
 
 ## :family_man_man_boy_boy: Contribuir
