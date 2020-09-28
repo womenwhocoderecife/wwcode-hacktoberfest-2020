@@ -22,6 +22,7 @@
 <br/>
 
 ## :memo: Sobre
+
 <br/>
 <br/>
 <h3 align="center">"... Se você é uma pessoa desenvolvedora, estudante aprendendo a programar, anfitrião de eventos ou empresa de qualquer tamanho, você pode ajudar a impulsionar o crescimento do código aberto e fazer contribuições positivas para uma comunidade cada vez maior"</h3><p align="end">(Conteúdo do site oficial do <a href="https://www.digitalocean.com/" target="_blank">Hacktoberfest 2020</a>)</p>
@@ -59,6 +60,7 @@
 <br/>
 
 ## :floppy_disk: Tecnologias
+
 <br/>
 <p>Este projeto foi desenvolvido com as seguintes tecnologias</p>
 <br/>
@@ -75,6 +77,7 @@
 <br/>
 
 ## :computer: Projeto
+
 <br/>
 <p>O projeto consiste em uma aplicação one-page que foi inspirado na página oficial do Hacktoberfest 2020.<br/> Nesta aplicação apresentamos o Hacktoberfest, Women Who Code e o <storng>Women Who Code Recife</storng>.</p>
 <p>Logo abaixo uma seção onde é possível identificar um menu com categorias de partição na comunidade. Neste projeto cada pessoa poderá contribuir acrescentando um card na categoria de participação em que se identifica no WWCode Recife: Directors, Evangelists, Leads, Volunteers e Members.</p>
@@ -94,6 +97,7 @@
 <h2 align="center">
 
 ![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/web.gif)
+
 </h2>
 <br/>
 <h5><strong> 📱 Projeto versão responsiva </strong></h5>
@@ -101,10 +105,12 @@
 <h2 align="center">
 
 ![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/mobile.gif)
+
 </h2>
 <br/>
 
 ## :family_woman_woman_girl_girl: Contribuir
+
 <br/>
 <p align="center">Você poderá contribuir acrescentando um card na sessão em que você identifica sua participação oficial no WWCode Recife dentro das modalidades: </p>
 <h5 align="center">Directors  |  Evangelist  |  Leads  |  Volunteers  |  Members</h5>
@@ -117,8 +123,8 @@
 <br/>
 <br/>
 
-
 ## :purple_heart: Desenvolvimento
+
 <br/>
 <br/>
 <table>
