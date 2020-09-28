@@ -90,13 +90,13 @@
 </h3>
 
 <br/>
-<h5><strong> 🖥️ Projeto Web inicial </strong> </h5>
+<h5><strong> 🖥️ Projeto web inicial </strong> </h5>
 <h2 align="center">
 
 ![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/web.gif)
 </h2>
 <br/>
-<h5><strong> 📱 Project versão responsiva </strong> Em contrução...🛠️ </h5>
+<h5><strong> 📱 Projeto versão responsiva </strong> Em contrução...🛠️ </h5>
 <br/>
 <h2 align="center">
 
@@ -106,8 +106,10 @@
 
 ## :family_man_man_boy_boy: Contribuir
 <br/>
-<p>Você poderá contribuir acrescentando um card </p>
-<h3>Em contrução...🛠️ </h3>
+<p align="center">Você poderá contribuir acrescentando um card na sessão em que você identifica sua participação oficial no WWCode Recife dentro das modalidades: </p>
+<h5 align="center">Directors  |  Evangelist  |  Leads  |  Volunteers  |  Members</h5>
+<h5 align="center">👩🏿‍💻👩🏻‍💻👩🏽‍💻👩🏾‍💻👩🏼‍💻 Para contribuir <a href="CONTRIBUTING.md">siga estas orientações</a>.</h5>
+<br/>
 <br/>
 
 ## :purple_heart: Contribuidores
