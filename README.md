@@ -15,8 +15,8 @@
   <a href="#memo-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#floppy_disk-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#family_man_man_boy_boy-contribuir">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#purple_heart-contribuidores">Contribuidores</a>
+  <a href="#family_woman_woman_girl_girl-contribuir">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#purple_heart-desenvolvimento">Desenvolvimento</a>
 </p>
 <br/>
 <br/>
@@ -104,7 +104,7 @@
 </h2>
 <br/>
 
-## 👩🏿‍💻👩🏻‍💻👩🏽‍💻👩🏾‍💻👩🏼‍💻 Contribuir 
+## :family_woman_woman_girl_girl: Contribuir
 <br/>
 <p align="center">Você poderá contribuir acrescentando um card na sessão em que você identifica sua participação oficial no WWCode Recife dentro das modalidades: </p>
 <h5 align="center">Directors  |  Evangelist  |  Leads  |  Volunteers  |  Members</h5>
