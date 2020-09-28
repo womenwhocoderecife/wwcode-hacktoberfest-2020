@@ -28,7 +28,8 @@
 <br/>
 <h4>🌎  No intuito de colaborar e incentivar a participação de mais mulheres na comunidade  open source , um pull request  por vez, nós do <a href="https://www.womenwhocode.com/recife" target="_blank">Women Who Code Recife</a>, criamos um projeto para participarmos desta causa incrível, e toda comunidade poder colaborar com o projeto e completar os desafios </h4>
 <br/>
-<p>🎯 Antes de começar, garanta que você já faça parte nossa em Recife e se inscreva na páginal oficial de Recife no <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a></p><a href="https://membership.womenwhocode.com/email"><h4>Inscrições clicando aqui ✅</h4></a>
+<p>🎯 Antes de começar, garanta que você já faça parte nossa em Recife e se inscreva na páginal oficial de Recife no <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a></p>
+<h4><a href="https://membership.womenwhocode.com/email">Inscrições clicando aqui ✅</a></h4>
 <br/> 
 <p align="center">📲  <strong>Conheça e nos acompanhe em nossas redes sociais:</strong></p>
 <br/>
@@ -81,16 +82,15 @@
 <br/>
 <br/>
 <p>
-<a lign="center" href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank">🎨 Clicando aqui</a> é possível verificar o layout que foi desenvolvido no Figma, inspirado no site oficial Hacktoberfest 2020</p>
+<a lign="center" href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank">🎨  Clicando aqui </a> é possível verificar o layout que foi desenvolvido no Figma</p>
 <br/>
+<h3 align="center">
 <a href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank" width="600px">
     <img alt="Image figma" src=".github/figma.png" width="400px" />
-  </a>
+</a>
+</h3>
 
 
-#### 🔢 Commands
-
-##### **`yarn`**
 <br/>
 <h3>Em contrução...🛠️ </h3>
 <br/>
