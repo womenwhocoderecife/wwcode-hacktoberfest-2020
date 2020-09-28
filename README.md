@@ -161,7 +161,7 @@
         <img style="border-radius: 50px;" src="https://avatars3.githubusercontent.com/u/14022360?s=460&u=380a1c2d62eb0f4ce39d56546d9762e4fbef76f7&v=4" width="70px;" alt="Elaine Manoelle"/>
         <br />
         <sub>
-          <b>Matheus Lima</b>
+          <b>Elaine Manoelle</b>
         </sub>
       </a>
       <br />
