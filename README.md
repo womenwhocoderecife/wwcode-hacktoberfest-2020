@@ -16,7 +16,7 @@
   <a href="#floppy_disk-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#family_man_man_boy_boy-contribuir">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#blue_heart-contribuidores">Contribuidores</a>
+  <a href="#purple_heart-contribuidores">Contribuidores</a>
 </p>
 <br/>
 <br/>
@@ -96,7 +96,7 @@
 ![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/web.gif)
 </h2>
 <br/>
-<h5><strong> 📱 Projeto versão responsiva </strong> Em contrução...🛠️ </h5>
+<h5><strong> 📱 Projeto versão responsiva </strong></h5>
 <br/>
 <h2 align="center">
 
@@ -104,15 +104,68 @@
 </h2>
 <br/>
 
-## :family_man_man_boy_boy: Contribuir
+## 👩🏿‍💻👩🏻‍💻👩🏽‍💻👩🏾‍💻👩🏼‍💻 Contribuir 
 <br/>
 <p align="center">Você poderá contribuir acrescentando um card na sessão em que você identifica sua participação oficial no WWCode Recife dentro das modalidades: </p>
 <h5 align="center">Directors  |  Evangelist  |  Leads  |  Volunteers  |  Members</h5>
+<p align="center">Você contribuirá com um destes cards abaixo na categoria pertinente, contendo seu nome, uma breve descrição sobre você, suas redes sociais profissionais (LinkedIn e Github) e sua foto será exibida através do link da sua foto do perfil do Github</p>
+<p align="center">
+    <img alt="Image participate" src=".github/participate.png" width="400px" />
+</p>
+<br/>
 <h5 align="center">👩🏿‍💻👩🏻‍💻👩🏽‍💻👩🏾‍💻👩🏼‍💻 Para contribuir <a href="CONTRIBUTING.md">siga estas orientações</a>.</h5>
 <br/>
 <br/>
 
-## :purple_heart: Contribuidores
+
+## :purple_heart: Desenvolvimento
 <br/>
-<h3>Em contrução...🛠️ </h3>
 <br/>
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/alinecbsr">
+        <img style="border-radius: 50px;" src="https://avatars0.githubusercontent.com/u/48742480?s=460&u=d21eae3038217c687d478969e8bf7b1bee1b9c3e&v=4" width="70px;" alt="Aline Rosa"/>
+        <br />
+        <sub>
+          <b>Aline Rosa</b>
+        </sub>
+      </a>
+      <br />
+      <p><scan title="Code">💻</scan>|<scan title="Documentation">🎨</scan>|<scan title="Bugs">🐛</scan></p>
+    </td>
+        <td align="center" style="border: none;">
+      <a href="https://github.com/simoneas02">
+        <img style="border-radius: 50px;" src="https://avatars2.githubusercontent.com/u/7841344?s=400&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4" width="70px;" alt="Simone Amorim"/>
+        <br />
+        <sub>
+          <b>Simone Amorim</b>
+        </sub>
+      </a>
+      <br />
+      <p><scan title="Code">💻</scan>|<scan title="Documentation">📖</scan>|<scan title="Bugs">🐛</scan></p>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/willany">
+        <img style="border-radius: 50px;" src="https://avatars1.githubusercontent.com/u/629029?s=460&u=017559e7f320ea97881b4d317638cbb9db26d7e4&v=4" width="70px;" alt="Willany Silva"/>
+        <br />
+        <sub>
+          <b>Willany Silva</b>
+        </sub>
+      </a>
+      <br />
+      <p><scan title="Code">💻</scan>|<scan title="Bugs">🐛</p>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/elainemanoelle">
+        <img style="border-radius: 50px;" src="https://avatars3.githubusercontent.com/u/14022360?s=460&u=380a1c2d62eb0f4ce39d56546d9762e4fbef76f7&v=4" width="70px;" alt="Elaine Manoelle"/>
+        <br />
+        <sub>
+          <b>Matheus Lima</b>
+        </sub>
+      </a>
+      <br />
+      <p><scan title="Code">💻</scan> | <scan title="Bugs">🐛</p>
+    </td>
+  </tr>
+</table>
