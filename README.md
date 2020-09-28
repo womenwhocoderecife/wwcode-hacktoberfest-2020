@@ -90,13 +90,14 @@
 </h3>
 
 <br/>
-<h5><strong>Project Web inicial </strong> Em contrução...🛠️ </h5>
+<h5><strong> 🖥️ Projeto Web inicial </strong> Em contrução...🛠️ </h5>
 <br/>
-<h5><strong>Project versão responsiva </strong> Em contrução...🛠️ </h5>
+<h5><strong> 📱 Project versão responsiva </strong> Em contrução...🛠️ </h5>
 <br/>
 
 ## :family_man_man_boy_boy: Contribuir
 <br/>
+<p>Você poderá contribuir acrescentando um card </p>
 <h3>Em contrução...🛠️ </h3>
 <br/>
 
