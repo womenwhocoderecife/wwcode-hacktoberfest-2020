@@ -112,7 +112,7 @@
 <br/>
 
 ### :zap:
-<img alt="Title" src=".github/pull-reques-1.svg" width="400px" />
+<img alt="Title" src=".github/pull-reques-1.svg" width="300px" />
 <br/>
 <br/>
 
