@@ -110,10 +110,10 @@
 
 ![duplicate-info](https://user-images.githubusercontent.com/47724428/94753057-708f0980-0363-11eb-84b8-c3fa9910aab9.png)
 <br/>
+<br/>
 
 ### :zap:
 <img alt="Title" src=".github/pull-reques-1.svg" width="300px" />
-<br/>
 <br/>
 
 <h5>✨No campo de "photo" você irá inserir o link da sua foto de perfil do github.</h5> 
