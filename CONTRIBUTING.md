@@ -7,10 +7,10 @@
   <a href="#hammer_and_wrench-configurando">Configurando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#heart_decoration-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="#white_check_mark-pull-request-1">1º Pull-request ✅</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#white_check_mark-pull-request-2"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#zap">1º Pull-request ✅</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#star"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#star2"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#sparkles"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 </p>
 <br/>
 
