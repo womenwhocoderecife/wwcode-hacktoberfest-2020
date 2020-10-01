@@ -110,16 +110,18 @@
 <h6>Lembre-se: você vai criar um novo, não altere o que já estiver.
 
 ![duplicate-info](https://user-images.githubusercontent.com/47724428/94753057-708f0980-0363-11eb-84b8-c3fa9910aab9.png)
+<br/>
 
-### :white_check_mark: Pull-request 1
+### :zap:
+<img alt="Title" src=".github/pull-reques-1.svg" width="300px" />
+<br/>
 
 <br/>
 <h5>✨No campo de "photo" você irá inserir o link da sua foto de perfil do github.</h5> 
 <h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
 
-<br/>
+
 <h5>✨Vamos voltar ao terminal e seguir os passos que aprendemos mais cedo para mandar uma modificação ao repositório remoto.</h5>
-<br/>
 <br/>
 
 ``` git status ```
@@ -149,33 +151,43 @@
 ![git-push](https://user-images.githubusercontent.com/47724428/94755258-4a209c80-036a-11eb-8b05-aca49b58736b.png)
 
 <br/>
-<h5>✨Você acabou de fazer o commit e tudo foi enviado para o seu repositório remoto. :heart_decoration: Agora vamos voltar para a página do github </h5>
+<h5>✨Você acabou de fazer o "commit", e após o "push" tudo foi enviado para o seu repositório remoto.</h5>
+<h5> Agora vamos voltar para a página do github </h5>
 <h6>Você deve encontra-la assim:</h6>
 <br/> 
 
 ![initialPR](https://user-images.githubusercontent.com/47724428/94862959-1ac46b00-0410-11eb-8f1e-748f41ae344f.png)
 <br/>
-<h5>✨ Clique na Pull Request que está marcada e você será encaminhada para esta página:</h5>
+<h5>✨ Clique na Pull Request como está marcada na imagem acima e você será encaminhada para esta página abaixo:</h5>
 <br/>
 
 ![createPR](https://user-images.githubusercontent.com/47724428/94863130-61b26080-0410-11eb-87b4-049b44fc00e6.png)
 <br/>
-<h4> Vamos observar algumas coisas nesta página</h4>
+<h4> 🔍 Vamos observar algumas coisas nesta página</h4>
+<br/>
 <h5>✨ Note que a comparação dos repositórios é feita da direira para esquerda. </h5>
 <h5>✨ A branch master do seu repositório está sendo comparada com a branch master do reprositório do wwcode. </h5>
-<h5>✨ Quando aparece o "Able to merge", significa que não há conflitos entre os repositórios. Caso apareça uma mensagem de conflito (ela estará em vermelho), volte para o vscode e observe se mudou algo do código que clonou. Até uma vírgula apagada pode dar conflito. </h5>
+<h5>✨ Quando aparece o "Able to merge", significa que não há conflitos entre os repositórios.</h5> 
+<h6>⚠️ Caso apareça uma mensagem de conflito (ela estará em vermelho), volte para o vscode e observe se mudou algo do código que clonou. Até uma vírgula apagada pode dar conflito. </h6>
 <h5>✨ É considerado uma boa prática escrever um título e uma descrição mas não é obrigatório. </h5>
 <br/>
 <h5>✨ Clique em "Create pull request" e PRONTO! Sua primeira pull request foi criada </h5>
 
 ![completePR](https://user-images.githubusercontent.com/47724428/94865477-0c784e00-0414-11eb-9bbe-f2523236a9c1.png)
+<br/>
+<h6>⚠️ Note que ocorreu um erro de check primeiro mas o mais importante é a mensagem de sucesso "This branch has no conflicts with the base branch" </h6>
+<br/>
+<h5>✨ E com a exibição da mensagem:  "This branch has no conflicts with the base branch" sua pull request foi concluída com sucesso! ✅  
 
-<h5>Note que ocorreu um erro de check primeiro mas o mais importante é a mensagem de sucesso "This branch has no conflicts with the base branch" </h5>
+<br/><br/>
+<br/>
 
-### :white_check_mark: Pull-request 2
+### :star:
+<img alt="Title" src=".github/pull-reques-2.svg" width="300px" />
+<br/>
 
 <br/>
-<h5>✨Ao voltar para o vs code, no campo de "name" você irá inserir seu nome e sobrenome.</h5> 
+<h5>✨Ao voltar para o vs code, no campo de "name" você irá inserir seu nome e um sobrenome.</h5> 
 <h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
 
 <br/>
@@ -183,21 +195,30 @@
 <br/>
 <br/>
 
-### :white_check_mark: Pull-request 3
+<br/>
+<br/>
+
+### :star2:
+<img alt="Title" src=".github/pull-reques-3.svg" width="300px" />
+<br/>
 
 <br/>
-<h5>✨Ao voltar para o vs code, no campo de "description" você irá inserir algo sobre você. Exemplo: Adoro contribur com a comunidade, amo viajar e sou super fã de Harry Potter! </h5> 
+<h5>✨Ao voltar para o vs code, no campo de "description" você irá inserir algo sobre você. Exemplo: Adoro contribur com a comunidade, amo viajar e sou super fã de Harry Potter!🥰 </h5> 
 <h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
 
 <br/>
 <h5>✨Vamos voltar ao terminal e seguir os passos da primeira pull request. Fazer o commit e solicitar a pull request no github. 
 <br/>
 <br/>
-  
-  ### :white_check_mark: Pull-request 4
+<br/>
+<br/>
+
+### :sparkles:
+<img alt="Title" src=".github/pull-reques-4.svg" width="300px" />
+<br/>
 
 <br/>
-<h5>✨Ao voltar para o vs code, nos campos de "github" e "linkedin" você irá inserir os links das respsctivas páginas </h5> 
+<h5>✨Ao voltar para o vs code, nos campos de "github" e "linkedin" você irá inserir os links do seu perfil nas respectivas páginas </h5> 
 <h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
 
 <br/>
@@ -205,7 +226,7 @@
 <br/>
 <br/>
 
-<h2> Feito!! Você completou as 4 Pull Requests e agora pode ir na página do Hacktoberfest para conferir.</h2>
 
+<h2> 🏆 Feito!!</h2> 
 
-  
+<h5>💟 Você completou as 4 Pull Requests e agora pode ir na página do Hacktoberfest para conferir!</h5>
