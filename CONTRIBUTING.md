@@ -5,10 +5,14 @@
 
 <p align="start">
   <a href="#hammer_and_wrench-configurando">Configurando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heart_decoration-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 1º Pull-request ✅ </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#computer-projeto"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#computer-projeto"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#heart_decoration-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="#white_check_mark-pull-request-1">1º Pull-request ✅</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 </p>
+<br/>
 
 ### :hammer_and_wrench: Configurando sua área de trabalho
 <br/>
@@ -95,3 +99,50 @@
 
 ![WhatsApp Image 2020-09-28 at 21 54 51](https://user-images.githubusercontent.com/47724428/94501406-20d00700-01d8-11eb-9421-3226aad2c60c.jpeg)
 
+<br/>
+<h5>✨Observe que o arquivo tem vários dados. Você irá procurar por " title: " e localizar em qual categoria se encaixa.</h5> 
+<h6>Por exemplo: Se você for da categoria "Members", você vai editar este trecho posteriormente:</h6>
+
+![object](https://user-images.githubusercontent.com/47724428/94751807-d5486500-035f-11eb-92f6-ab24a9ff9a04.png)
+
+<br/>
+<h5>✨Primeiramente você vai copiar o objeto que estiver entre  { }, apagar todas as informações e deixá-lo assim, como no segundo objeto:</h5>
+
+![duplicate-info](https://user-images.githubusercontent.com/47724428/94753057-708f0980-0363-11eb-84b8-c3fa9910aab9.png)
+
+### :white_check_mark: Pull-request 1
+
+<br/>
+<h5>✨No campo de "photo" você irá inserir o link da sua foto de perfil do github.</h5> 
+<h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
+
+<br/>
+<h5>✨Vamos voltar ao terminal e seguir os passos que aprendemos mais cedo para mandar uma modificação ao repositório remoto
+<br/>
+<br/>
+
+``` git status ```
+<br/>
+
+![git-status](https://user-images.githubusercontent.com/47724428/94755219-24939300-036a-11eb-9abc-31ced92d684e.png)
+<br/>
+
+
+``` git add . ``` 
+<br/>
+
+![git-add](https://user-images.githubusercontent.com/47724428/94755248-3e34da80-036a-11eb-9b9e-77aa5c26f2ad.png)
+
+<br/>
+
+``` git commit -m "mensagem do commit com descrição" ``` 
+<br/>
+
+![git-commit](https://user-images.githubusercontent.com/47724428/94755255-44c35200-036a-11eb-8421-f2cffa20ebf7.png)
+
+<br/>
+
+``` git push origin master ``` 
+<br/>
+
+![git-push](https://user-images.githubusercontent.com/47724428/94755258-4a209c80-036a-11eb-8b05-aca49b58736b.png)
