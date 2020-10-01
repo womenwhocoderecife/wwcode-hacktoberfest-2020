@@ -8,9 +8,9 @@
   <a href="#heart_decoration-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="#zap">1º Pull-request ✅</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#white_check_mark-pull-request-2"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#star"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#star2"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#sparkles"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 </p>
 <br/>
 
@@ -151,16 +151,25 @@
 ![git-push](https://user-images.githubusercontent.com/47724428/94755258-4a209c80-036a-11eb-8b05-aca49b58736b.png)
 <br/>
 
-### :white_check_mark: Pull-request 2 ✅✅
+### :star:
+<img alt="Title" src=".github/pull-reques-2.svg" width="300px" />
 <br/>
+<br/>
+Em construção 🛠️
 <br/>
 <br/>
 
-### :white_check_mark: Pull-request 1 
+### :star2:
+<img alt="Title" src=".github/pull-reques-3.svg" width="300px" />
 <br/>
+<br/>
+Em construção 🛠️
 <br/>
 <br/>
 
-### :white_check_mark: Pull-request 1
+### :sparkles:
+<img alt="Title" src=".github/pull-reques-4.svg" width="300px" />
 <br/>
+<br/>
+Em construção 🛠️
 <br/>
