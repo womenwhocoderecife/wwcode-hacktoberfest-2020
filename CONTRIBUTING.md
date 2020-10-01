@@ -7,8 +7,8 @@
   <a href="#hammer_and_wrench-configurando">Configurando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#heart_decoration-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="#white_check_mark-pull-request-1">1º Pull-request ✅</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#zap">1º Pull-request ✅</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#white_check_mark-pull-request-2"> 2º Pull-request ✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto"> 3º Pull-request ✅✅✅ </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto"> 4º Pull-request ✅✅✅✅  </a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 </p>
@@ -109,10 +109,13 @@
 <h5>✨Primeiramente você vai copiar o objeto que estiver entre  { }, apagar todas as informações e deixá-lo assim, como no segundo objeto:</h5>
 
 ![duplicate-info](https://user-images.githubusercontent.com/47724428/94753057-708f0980-0363-11eb-84b8-c3fa9910aab9.png)
-
-### :white_check_mark: Pull-request 1
-
 <br/>
+
+### :zap:
+<img alt="Title" src=".github/pull-reques-1.svg" width="400px" />
+<br/>
+<br/>
+
 <h5>✨No campo de "photo" você irá inserir o link da sua foto de perfil do github.</h5> 
 <h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
 
@@ -146,3 +149,18 @@
 <br/>
 
 ![git-push](https://user-images.githubusercontent.com/47724428/94755258-4a209c80-036a-11eb-8b05-aca49b58736b.png)
+<br/>
+
+### :white_check_mark: Pull-request 2 ✅✅
+<br/>
+<br/>
+<br/>
+
+### :white_check_mark: Pull-request 1 
+<br/>
+<br/>
+<br/>
+
+### :white_check_mark: Pull-request 1
+<br/>
+<br/>
