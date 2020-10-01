@@ -173,5 +173,16 @@
       <br />
       <p><scan title="Code">💻</scan> | <scan title="Bugs">🐛</p>
     </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/ilzinha">
+        <img style="border-radius: 50px;" src="https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4" width="70px;" alt="Ilza Medeiros"/>
+        <br />
+        <sub>
+          <b>Ilza Medeiros</b>
+        </sub>
+      </a>
+      <br />
+      <p><scan title="Code">💻</scan> | <scan title="Bugs">🐛</p>
+    </td>
   </tr>
 </table>
