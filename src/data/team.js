@@ -35,9 +35,9 @@ export default [
           'https://avatars2.githubusercontent.com/u/7841344?s=460&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4',
         name: 'Simone  Amorim',
         description:
-          "Mother, WWCode Leader, front-end developer, and CSS evangelist. I'm passionate about running and bike riding",
+          "Mother, WWCode Leader, front-end developer, and CSS evangelist. I'm passionate about running and bike riding.",
         gitHub: 'https://github.com/simoneas02',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/simoneas02/',
       },
     ],
   },
