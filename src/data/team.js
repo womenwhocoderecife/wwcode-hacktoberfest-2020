@@ -23,21 +23,20 @@ export default [
       },
       {
         photo:
-          'https://avatars2.githubusercontent.com/u/7841344?s=400&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4',
-        name: 'Simone Amorim',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/simoneas02',
-        linkedIn: 'https://www.linkedin.com/in/simoneas02/',
-      },
-      {
-        photo:
           'https://avatars2.githubusercontent.com/u/11897614?s=400&u=7a8341c2b97e26c854515421e046326198879860&v=4',
         name: 'Anna Gabriela ',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'https://github.com/AnnaGabriela',
         linkedIn: 'https://www.linkedin.com/in/annagabrielac/',
+      },
+      {
+        photo:
+          'https://avatars2.githubusercontent.com/u/7841344?s=460&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
       },
     ],
   },
@@ -81,10 +80,10 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
-        photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
+        photo:
+          'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
         name: '',
-        description:
-          '',
+        description: '',
         gitHub: '',
         linkedIn: '',
       },
