@@ -36,7 +36,7 @@ export default [
         name: 'Simone  Amorim',
         description:
           "Mother, WWCode Leader, front-end developer, and CSS evangelist. I'm passionate about running and bike riding",
-        gitHub: '',
+        gitHub: 'https://github.com/simoneas02',
         linkedIn: '',
       },
     ],
