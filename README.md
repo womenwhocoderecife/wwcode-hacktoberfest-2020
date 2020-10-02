@@ -93,20 +93,6 @@
 </h3>
 
 <br/>
-<h5><strong> 🖥️ Projeto web inicial </strong> </h5>
-<h2 align="center">
-
-![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/web.gif)
-
-</h2>
-<br/>
-<h5><strong> 📱 Projeto versão responsiva </strong></h5>
-<br/>
-<h2 align="center">
-
-![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/mobile.gif)
-
-</h2>
 <br/>
 
 ## :family_woman_woman_girl_girl: Contribuir
