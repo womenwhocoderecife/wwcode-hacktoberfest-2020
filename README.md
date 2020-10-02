@@ -84,7 +84,7 @@
 <br/>
 <br/>
 <p>
-<a lign="center" href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank">🎨  Clicando aqui </a> é possível verificar o layout que foi desenvolvido no Figma</p>
+<a lign="center" href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank">🎨  Clicando aqui </a> é possível verificar o layout do projeto, desenvolvido no Figma</p>
 <br/>
 <h3 align="center">
 <a href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank" width="600px">
