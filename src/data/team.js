@@ -33,7 +33,7 @@ export default [
       {
         photo:
           'https://avatars2.githubusercontent.com/u/7841344?s=460&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4',
-        name: '',
+        name: 'Simone  Amorim',
         description: '',
         gitHub: '',
         linkedIn: '',
