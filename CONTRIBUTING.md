@@ -218,7 +218,7 @@
 <br/>
 
 <br/>
-<h5>✨Ao voltar para o vs code, nos campos de "github" e "linkedin" você irá inserir os links do seu perfil nas respectivas páginas </h5> 
+<h5>✨Ao voltar para o VSCode, no arquivo "team.js" nos campos de "github" e "linkedin" você irá inserir os links do seu perfil nas respectivas páginas </h5> 
 <h6>Aperte " Ctrl + s " para salvar o aquivo </h6>
 
 <br/>
