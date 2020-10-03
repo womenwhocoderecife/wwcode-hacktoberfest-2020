@@ -131,7 +131,7 @@ export default [
         photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
         name: 'Carolina Brito',
         description: 'Engenheira civil e administradora de formação, atualmente engenheira de software na Procenge. Participa das comunidades locais: facebook developers circle, wwcode recife, pyladies recife, frevo on rails, pug-pe. Apaixonada por Tecnologia e entusiasta de python e ruby <3',
-        gitHub: '',
+        gitHub: 'https://github.com/COAB1',
         linkedIn: '',
       },
       {
