@@ -160,7 +160,7 @@ export default [
           'https://avatars3.githubusercontent.com/u/30838723?s=460&u=7c3a29e24638571141cb386ba931fcd0b091db5d&v=4',
         name: 'Cinthya Lins',
         description:
-          '',
+          'Estudante de Ciência da Computação na UFPE.',
         gitHub: '',
         linkedIn: '',
       },
