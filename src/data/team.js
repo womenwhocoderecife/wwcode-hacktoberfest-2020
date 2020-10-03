@@ -84,9 +84,11 @@ export default [
         photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
         name: 'Ilza Medeiros',
         description:
-          '',
+          'Desenvolvedora Front-end formada pela Women Who Code e Reprograma. Estudante de ADS na Uninassau. Amo viajar, café, Harry Potter e Star Wars!',
+        gitHub: '',
+        linkedIn: '',
       },
-     {
+      {
         photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
         name: 'Shirleide da Silva',
         description: '💜 Apaixonada por TI desde meus 9 anos, atualmente Developer Full Stack',
@@ -139,21 +141,21 @@ export default [
           'Dev em construção, apaixonada por Senhor dos Anéis e outras nerdeiras',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
-      }, 
+      },
       {
-        photo: 
+        photo:
           'https://avatars1.githubusercontent.com/u/51760530?s=460&u=3de719963b658438c7e587a031ecc2187cbeacf6&v=4',
         name: 'Lilian Giselly',
         description:
           'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo itaque officia possimus facere quae porro? Deleniti temporibus amet, repudiandae possimus illum iure tempora? Perspiciatis nostrum officiis sit odio nisi. Voluptate.',
-          gitHub: 'https://github.com/liliangisellyps',
-          linkedIn: 'https://www.linkedin.com/in/liliangisellyps/',
-     
+        gitHub: 'https://github.com/liliangisellyps',
+        linkedIn: 'https://www.linkedin.com/in/liliangisellyps/',
+
       },
       {
-        photo:'https://avatars1.githubusercontent.com/u/39145510?s=460&u=4bfc3afd47f57022280a049f854345a1e7429ee8&v=4',
+        photo: 'https://avatars1.githubusercontent.com/u/39145510?s=460&u=4bfc3afd47f57022280a049f854345a1e7429ee8&v=4',
         name: 'Mabi Germano',
-        description:'Apaixonada por desenvolvimento de sistemas, a curiosiade me move para aprender novas coisas. Meus hobbies são jogar video game, fazer natação e assistir séries.  ',
+        description: 'Apaixonada por desenvolvimento de sistemas, a curiosiade me move para aprender novas coisas. Meus hobbies são jogar video game, fazer natação e assistir séries.  ',
         gitHub: 'https://github.com/MabiGermano',
         linkedIn: 'https://www.linkedin.com/in/mbeatriz-germano/',
       },
@@ -165,14 +167,14 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/coab1/',
       },
       {
-       photo:
+        photo:
           'https://avatars0.githubusercontent.com/u/38708826?s=460&u=93d99921f102e5e48a9289bf07f3a4030ed06e84&v=4',
         name: 'Deborah Camila',
         description:
           'Olá, me chamo Deborah Camila, sou graduanda em Ciência da Computação e trabalho como desenvolvedora front-end. Atualmente, estou estudando para algumas áreas do meu interesse como, UX/UI e desenvolvimento em back-end. Gosto muito de partipar e organizar eventos e tenho muito interesse em iniciativas que promovem a inclusão social. Por isso eu participo de algumas comunidades como, Pyladies Recife, Django Girls, a rede de apoio da Unicap, UNICAs e do blog InspirAda na Computação. <3',
         gitHub: 'https://github.com/debcamila',
         linkedIn: 'https://www.linkedin.com/in/debcamila/',
-       },
+      },
       {
         photo:
           'https://avatars3.githubusercontent.com/u/30838723?s=460&u=7c3a29e24638571141cb386ba931fcd0b091db5d&v=4',
@@ -195,7 +197,7 @@ export default [
         photo: 'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
         name: 'Gabryelle Soares',
         description:
-        'Graduanda em Ciência da Computação na UFCG',
+          'Graduanda em Ciência da Computação na UFCG',
         gitHub: 'https://github.com/gabsoares11/',
         linkedIn: 'https://www.linkedin.com/in/gabryelle-soares/'
       },
@@ -247,11 +249,11 @@ export default [
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
         name: 'Aline Rosa',
         description:
-              'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
-       },   
-       {
+      },
+      {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
         name: 'Eline Pimentel',
