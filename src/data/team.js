@@ -223,8 +223,8 @@ export default [
         name: 'Dhebbora Vasconcelos',
         description:
           'Tenho 27 anos, sou Designer Gráfico e curiosa em programação (frontend)',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/Dhebbora',
+        linkedIn: 'https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/',
       },  
       {
         photo:
@@ -249,7 +249,7 @@ export default [
         name: '',
         description: '',
         gitHub: '',
-        linkedIn: '',
+        linkedIn: ''
       },
       {
         photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
