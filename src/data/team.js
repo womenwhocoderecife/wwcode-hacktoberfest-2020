@@ -81,6 +81,12 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
+        photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
+        name: 'Ilza Medeiros',
+        description:
+          '',
+      },
+     {
         photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
         name: 'Shirleide da Silva',
         description: '',
@@ -228,27 +234,15 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/',
       },
       {
-        title: 'Members',
-        subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
-        data: [
-          {
-            photo:
-              'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
-            name: 'Aline Rosa',
-            description:
+        photo:
+          'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
+        name: 'Aline Rosa',
+        description:
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-            gitHub: 'https://github.com/alinecbsr',
-            linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
-          },
-        ],
-      },
-    ]
-  },
-  {  
-    title: 'Members',
-    subtitle: '',
-    data: [   
-      {
+        gitHub: 'https://github.com/alinecbsr',
+        linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
+       },   
+       {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
         name: 'Eline Pimentel',
