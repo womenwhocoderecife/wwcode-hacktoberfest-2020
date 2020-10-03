@@ -82,7 +82,7 @@ export default [
       },
       {
         photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
-        name: '',
+        name: 'Shirleide da Silva',
         description: '',
         gitHub: '',
         linkedIn: '',
