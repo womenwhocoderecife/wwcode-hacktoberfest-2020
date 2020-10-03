@@ -44,7 +44,6 @@
 <h5>✨ Você precisa fazer um fork do repositório do Women Who Code. Segue o link:</h5>
 
 [Women Who Code](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020)
-</div>
 
 <h6>⚠️ Isto irá criar uma cópia para o seu repositório</h6>
 
