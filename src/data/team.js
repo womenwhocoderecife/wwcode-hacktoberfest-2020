@@ -282,7 +282,7 @@ export default [
         name: 'Clarissa Leal',
         description:'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
         gitHub: 'https://github.com/lealclarissa',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/clarissa-leal-soares/',
       },
     ],
   },
