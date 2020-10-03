@@ -7,7 +7,7 @@ export default [
       {
         photo:
           'Foto de Karina',
-        name: 'Nome de Karina Machado',
+        name: 'Nome',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'Aqui link do git hub',
