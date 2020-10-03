@@ -82,7 +82,7 @@ export default [
       },
       {
         photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
-        name: '',
+        name: 'Ilza Medeiros',
         description:
           '',
         gitHub: '',
