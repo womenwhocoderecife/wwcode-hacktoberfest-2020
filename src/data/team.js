@@ -134,7 +134,7 @@ export default [
       {
         photo:'https://avatars1.githubusercontent.com/u/39145510?s=460&u=4bfc3afd47f57022280a049f854345a1e7429ee8&v=4',
         name: 'Mabi Germano',
-        description:'',
+        description:'Apaixonada por desenvolvimento de sistemas, a curiosiade me move para aprender novas coisas. Meus hobbies são jogar video game, fazer natação e assistir séries.  ',
         gitHub: '',
         linkedIn: '',
       },
