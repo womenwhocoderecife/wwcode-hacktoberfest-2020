@@ -117,7 +117,11 @@ export default [
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
-      },
+      }, 
+      {
+        photo: 
+          'https://avatars1.githubusercontent.com/u/51760530?s=460&u=3de719963b658438c7e587a031ecc2187cbeacf6&v=4'
+      }
     ],
   },
 ];
