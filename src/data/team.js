@@ -81,17 +81,10 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
-<<<<<<< HEAD
         photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
         name: 'Ilza Medeiros',
         description:
           '',
-=======
-        photo:
-          'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
-        name: '',
-        description: '',
->>>>>>> fb333fd961b6241d651bf3ab1642160884c823e3
         gitHub: '',
         linkedIn: '',
       },
@@ -145,6 +138,7 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
+      {
         photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
         name: 'Carolina Brito',
         description: '',
