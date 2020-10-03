@@ -124,7 +124,8 @@ export default [
         name: 'Deborah Camila',
         description:
           'Olá, me chamo Deborah Camila, sou graduanda em Ciência da Computação e trabalho como desenvolvedora front-end. Atualmente, estou estudando para algumas áreas do meu interesse como, UX/UI e desenvolvimento em back-end. Gosto muito de partipar e organizar eventos e tenho muito interesse em iniciativas que promovem a inclusão social. Por isso eu participo de algumas comunidades como, Pyladies Recife, Django Girls, a rede de apoio da Unicap, UNICAs e do blog InspirAda na Computação. <3',
-        gitHub: '',
+        gitHub: 'https://github.com/debcamila',
+        linkedIn: 'https://www.linkedin.com/in/debcamila/',
        },
        }
         photo:
