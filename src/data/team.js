@@ -85,8 +85,8 @@ export default [
         name: 'Ilza Medeiros',
         description:
           'Desenvolvedora Front-end formada pela Women Who Code e Reprograma. Estudante de ADS na Uninassau. Amo viajar, café, Harry Potter e Star Wars!',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/ilzinha',
+        linkedIn: 'https://www.linkedin.com/in/ilza-medeiros/',
       },
       {
         photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
@@ -203,7 +203,7 @@ export default [
       },
       {
         photo:
-         'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
+          'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: 'Geysa Priscila',
         description:
           'Desenvolvedora FrontEnd na Avanade. Pós Graduanda em Computação Forense e Perícia Digital. Formada Gestão de TI. Apaixonada por canto e animais.',
@@ -212,10 +212,10 @@ export default [
       },
       {
         photo:
- 'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
+          'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
         name: 'Sara Sales',
         description: 'Sou estudante da área de tecnologia há mais de um ano, e sou apaixonada por mudanças e impactos causados pela tecnologia .',
-        gitHub: 'https://github.com/saracristinas', 
+        gitHub: 'https://github.com/saracristinas',
         linkedIn: 'https://www.linkedin.com/in/sara-sales-95520618a/',
       },
       {
@@ -290,7 +290,7 @@ export default [
       {
         photo:'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
         name: 'Clarissa Leal',
-        description:'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
+        description: 'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
         gitHub: 'https://github.com/lealclarissa',
         linkedIn: 'https://www.linkedin.com/in/clarissa-leal-soares/',
       },
