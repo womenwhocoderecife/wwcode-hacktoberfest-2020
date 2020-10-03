@@ -91,7 +91,7 @@ export default [
       {
         photo:
           'https://avatars2.githubusercontent.com/u/47783317?s=460&u=36f0ab07c616034e0378e4c62796d08008931612&v=4',
-        name: '',
+        name: 'Tathiane Pinto',
         description:
           '',
         gitHub: '',
