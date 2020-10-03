@@ -148,6 +148,15 @@ export default [
        },
       {
         photo:
+          'https://avatars3.githubusercontent.com/u/30838723?s=460&u=7c3a29e24638571141cb386ba931fcd0b091db5d&v=4',
+        name: '',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
+        photo:
         'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
         name: 'Gabryelle Soares',
         description:
