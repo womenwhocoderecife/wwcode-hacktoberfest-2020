@@ -195,6 +195,15 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
+      {
+        photo:
+          'https://avatars3.githubusercontent.com/u/45688600?s=460&u=b37bbc8107d37f92d975aa171091ce1f177762d1&v=4',
+        name: '',
+        description:
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        gitHub: '',
+        linkedIn: '',
+      },
     ],
   },
    
