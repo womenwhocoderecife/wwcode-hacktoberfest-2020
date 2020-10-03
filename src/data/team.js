@@ -270,7 +270,8 @@ export default [
         photo:
           'https://avatars1.githubusercontent.com/u/66646610?s=460&u=9ce0cfb47a543384772419271a21d3d58698c75d&v=4',
         name: 'Marília Andrade',
-        description: '',
+        description:
+          '24 anos, estudante do curso de front-end, pela Rede Cidadã, arquiteta e designer. Atuo desenvolvendo identidades visuais, conteúdos gráficos e nas horas vagas projeto sonhos.',
         gitHub: '',
         linkedIn: ''
       },
