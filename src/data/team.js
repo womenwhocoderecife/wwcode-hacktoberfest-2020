@@ -111,7 +111,7 @@ export default [
     data: [
       {
         photo:
-          'https://avatars3.githubusercontent.com/u/48742480?s=460&u=f7a57f3983986bfd66908f46ddc3214452781180&v=4',
+          'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
         name: 'Aline Rosa',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
