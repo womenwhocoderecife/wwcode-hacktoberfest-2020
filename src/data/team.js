@@ -123,7 +123,7 @@ export default [
           'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: 'Geysa Priscila',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Desenvolvedora FrontEnd na Avanade. Pós Graduanda em Computação Forense e Perícia Digital. Formada Gestão de TI. Apaixonada por canto e animais.',
         gitHub: 'https://github.com/GeysaPriscila',
         linkedIn: 'https://www.linkedin.com/in/geysa-priscila/',
       }
