@@ -124,8 +124,8 @@ export default [
         name: 'Vanessa Oliveira',
         description:
           'Falar sobre mim é complicado mas fazendo um resumo eu gosto de gatos, cachorros, fotos, cafeterias e cheiro de café, queria um dia ser barista e algumas outras profissões listadas no meu gitHub, escrevo uns textos e tenho uma lojinha chamada suncake.nessa gostaria muito de cativar o proximo com minha arte, obrigada por ver o site e lembre-se bebam água.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/nessalive',
+        linkedIn: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
       },
     ],
   },
