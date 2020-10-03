@@ -214,7 +214,7 @@ export default [
         name: 'Karen Gomes',
         description: 'Desenvolvedora FrontEnd com ênfase em ReactJS no Centro de Inovação EDGE e estudante de Ciência da Computação pela Ufal. Participa do Katie Ufal e também do PyLadies Maceió. Linguagens com mais afinidade: JavaScript, C, Java e Python.',
         gitHub: 'https://github.com/karenngomes',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/karenngomes/',
       },
       {
         photo:
