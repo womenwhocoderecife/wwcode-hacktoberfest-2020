@@ -205,7 +205,7 @@ export default [
  'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
         name: 'Sara Sales',
         description: 'Sou estudante da área de tecnologia há mais de um ano, e sou apaixonada por mudanças e impactos causados pela tecnologia .',
-        gitHub: '', 
+        gitHub: 'https://github.com/saracristinas', 
         linkedIn: '',
       },
       {
