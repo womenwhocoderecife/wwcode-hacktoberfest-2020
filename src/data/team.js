@@ -165,8 +165,8 @@ export default [
         name: 'Cinthya Lins',
         description:
           'Estudante de Ciência da Computação na UFPE.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/cmlins',
+        linkedIn: 'https://www.linkedin.com/in/cinthyalins/',
       },
       {
         photo:
