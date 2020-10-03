@@ -124,6 +124,9 @@ export default [
         name: 'Lilian Giselly',
         description:
           'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo itaque officia possimus facere quae porro? Deleniti temporibus amet, repudiandae possimus illum iure tempora? Perspiciatis nostrum officiis sit odio nisi. Voluptate.',
+          gitHub: 'https://github.com/liliangisellyps',
+          linkedIn: 'https://www.linkedin.com/in/liliangisellyps/',
+     
       },
     ],
   },
