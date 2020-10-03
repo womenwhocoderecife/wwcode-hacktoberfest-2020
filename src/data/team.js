@@ -130,7 +130,9 @@ export default [
       {
         photo: 
           'https://avatars1.githubusercontent.com/u/51760530?s=460&u=3de719963b658438c7e587a031ecc2187cbeacf6&v=4',
-          name: 'Lilian Giselly',
+        name: 'Lilian Giselly',
+        description:
+          'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo itaque officia possimus facere quae porro? Deleniti temporibus amet, repudiandae possimus illum iure tempora? Perspiciatis nostrum officiis sit odio nisi. Voluptate.',
       },
       {
         photo:'https://avatars1.githubusercontent.com/u/39145510?s=460&u=4bfc3afd47f57022280a049f854345a1e7429ee8&v=4',
