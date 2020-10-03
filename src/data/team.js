@@ -242,6 +242,13 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
+      {
+        photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      }
     ],
   },
    
