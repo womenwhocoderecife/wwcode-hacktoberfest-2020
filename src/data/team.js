@@ -167,9 +167,9 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
-        name: '',
+        name: 'Maria Luísa Costa',
         description:
-          '',
+          'Tenho 23 anos, sou estudante de desenvolvimento Front-End e amante de gatos.',
         gitHub: '',
         linkedIn: '',
       },
