@@ -84,7 +84,7 @@
 <br/>
 <br/>
 <p>
-<a lign="center" href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank">🎨  Clicando aqui </a> é possível verificar o layout que foi desenvolvido no Figma</p>
+<a lign="center" href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank">🎨  Clicando aqui </a> é possível verificar o layout do projeto, desenvolvido no Figma</p>
 <br/>
 <h3 align="center">
 <a href="https://www.figma.com/file/3F1RZgqXn7iLza3s5rFHyF/WWCode-Recife-in-Hacktoberfest?node-id=0%3A1" target="_blank" width="600px">
@@ -93,20 +93,6 @@
 </h3>
 
 <br/>
-<h5><strong> 🖥️ Projeto web inicial </strong> </h5>
-<h2 align="center">
-
-![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/web.gif)
-
-</h2>
-<br/>
-<h5><strong> 📱 Projeto versão responsiva </strong></h5>
-<br/>
-<h2 align="center">
-
-![](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020/blob/master/.github/mobile.gif)
-
-</h2>
 <br/>
 
 ## :family_woman_woman_girl_girl: Contribuir
@@ -168,6 +154,17 @@
         <br />
         <sub>
           <b>Elaine Manoelle</b>
+        </sub>
+      </a>
+      <br />
+      <p><scan title="Code">💻</scan> | <scan title="Bugs">🐛</p>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/ilzinha">
+        <img style="border-radius: 50px;" src="https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4" width="70px;" alt="Ilza Medeiros"/>
+        <br />
+        <sub>
+          <b>Ilza Medeiros</b>
         </sub>
       </a>
       <br />

@@ -23,21 +23,21 @@ export default [
       },
       {
         photo:
-          'https://avatars2.githubusercontent.com/u/7841344?s=400&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4',
-        name: 'Simone Amorim',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/simoneas02',
-        linkedIn: 'https://www.linkedin.com/in/simoneas02/',
-      },
-      {
-        photo:
           'https://avatars2.githubusercontent.com/u/11897614?s=400&u=7a8341c2b97e26c854515421e046326198879860&v=4',
         name: 'Anna Gabriela ',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'https://github.com/AnnaGabriela',
         linkedIn: 'https://www.linkedin.com/in/annagabrielac/',
+      },
+      {
+        photo:
+          'https://avatars2.githubusercontent.com/u/7841344?s=460&u=7160c0fcc3c851f0b521d151bbe535300165a6c6&v=4',
+        name: 'Simone  Amorim',
+        description:
+          "Mother, WWCode Leader, front-end developer, and CSS evangelist. I'm passionate about running and bike riding.",
+        gitHub: 'https://github.com/simoneas02',
+        linkedIn: 'https://www.linkedin.com/in/simoneas02/',
       },
     ],
   },
@@ -51,7 +51,7 @@ export default [
           'https://avatars3.githubusercontent.com/u/48742480?s=460&u=f7a57f3983986bfd66908f46ddc3214452781180&v=4',
         name: 'Aline Rosa',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Front-end Developer. Participa ativamente na comunidade de tecnologia, acredita no impacto social positivo que eles trazem. Apaixonado por viagens, colaboração e a causa de mulheres no mercado de tecnologia.',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
       },
@@ -81,10 +81,17 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
+<<<<<<< HEAD
         photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
         name: 'Ilza Medeiros',
         description:
           '',
+=======
+        photo:
+          'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
+        name: '',
+        description: '',
+>>>>>>> fb333fd961b6241d651bf3ab1642160884c823e3
         gitHub: '',
         linkedIn: '',
       },
