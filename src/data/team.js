@@ -81,8 +81,7 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
-        photo:
-          'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
+        photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
         name: '',
         description: '',
         gitHub: '',
@@ -130,7 +129,9 @@ export default [
       {
         photo: 
           'https://avatars1.githubusercontent.com/u/51760530?s=460&u=3de719963b658438c7e587a031ecc2187cbeacf6&v=4',
-          name: 'Lilian Giselly',
+        name: 'Lilian Giselly',
+        description:
+          'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo itaque officia possimus facere quae porro? Deleniti temporibus amet, repudiandae possimus illum iure tempora? Perspiciatis nostrum officiis sit odio nisi. Voluptate.',
       },
       {
         photo:'https://avatars1.githubusercontent.com/u/39145510?s=460&u=4bfc3afd47f57022280a049f854345a1e7429ee8&v=4',
@@ -208,7 +209,7 @@ export default [
           'https://avatars3.githubusercontent.com/u/45688600?s=460&u=b37bbc8107d37f92d975aa171091ce1f177762d1&v=4',
         name: 'Dhebbora Vasconcelos',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Tenho 27 anos, sou Designer Gráfico e curiosa em programação (frontend)',
         gitHub: '',
         linkedIn: '',
       },
@@ -228,5 +229,44 @@ export default [
         ],
       },
     ]
-  }
+  },
+  {  
+    title: 'Members',
+    subtitle: '',
+    data: [   
+      {
+        photo:
+          'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
+        name: '',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
+        photo:
+          'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
+        photo:
+          'https://avatars1.githubusercontent.com/u/66646610?s=460&u=9ce0cfb47a543384772419271a21d3d58698c75d&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
+        photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      }
+    ],
+  },
+   
 ];
