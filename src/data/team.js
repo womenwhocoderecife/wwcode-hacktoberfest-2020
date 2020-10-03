@@ -176,7 +176,7 @@ export default [
         name: 'Geysa Priscila',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: '',
+        gitHub: 'https://github.com/GeysaPriscila',
         linkedIn: '',
       },
       {
