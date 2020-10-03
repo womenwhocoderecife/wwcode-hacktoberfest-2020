@@ -123,7 +123,7 @@ export default [
           'https://avatars0.githubusercontent.com/u/38708826?s=460&u=93d99921f102e5e48a9289bf07f3a4030ed06e84&v=4',
         name: 'Deborah Camila',
         description:
-          'Olá, me chamo Deborah Camila, sou graduanda em Ciência da Computação e trabalho como desenvolvedora front-end. Atualmente, estou estudando para algumas áreas do meu interesse como, UX/UI e desenvolvimento em back-end. Gosto muito de partipar e organizar eventos e tenho muito interesse em iniciativas que promovem a inclusão social. Por isso eu participo de algumas comunidades como, Pyladies Recife, Django Girls, a rede de apoio da Unicap, UNICAs e do blog InspirAda na Computação. <3',
+          'Graduanda em Ciência da Computação e trabalhando como desenvolvedora front-end. Participo de algumas comunidades como, Pyladies Recife, Django Girls, a rede de apoio da Unicap, UNICAs e do blog InspirAda na Computação. <3',
         gitHub: 'https://github.com/debcamila',
         linkedIn: 'https://www.linkedin.com/in/debcamila/',
        },
