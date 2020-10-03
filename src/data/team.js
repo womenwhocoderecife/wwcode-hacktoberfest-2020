@@ -120,9 +120,9 @@ export default [
       {
         photo:
           'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
-        name: 'Aline Rosa',
+        name: 'Mayhhara Morais',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Dev em construção, apaixonada por Senhor dos Anéis e outras nerdeiras.',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
       }, 
@@ -132,11 +132,14 @@ export default [
         name: 'Lilian Giselly',
         description:
           'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo itaque officia possimus facere quae porro? Deleniti temporibus amet, repudiandae possimus illum iure tempora? Perspiciatis nostrum officiis sit odio nisi. Voluptate.',
+          gitHub: 'https://github.com/liliangisellyps',
+          linkedIn: 'https://www.linkedin.com/in/liliangisellyps/',
+     
       },
       {
         photo:'https://avatars1.githubusercontent.com/u/39145510?s=460&u=4bfc3afd47f57022280a049f854345a1e7429ee8&v=4',
         name: 'Mabi Germano',
-        description:'',
+        description:'Apaixonada por desenvolvimento de sistemas, a curiosiade me move para aprender novas coisas. Meus hobbies são jogar video game, fazer natação e assistir séries.  ',
         gitHub: '',
         linkedIn: '',
       },
@@ -152,13 +155,23 @@ export default [
           'https://avatars0.githubusercontent.com/u/38708826?s=460&u=93d99921f102e5e48a9289bf07f3a4030ed06e84&v=4',
         name: 'Deborah Camila',
         description:
-          '',
-        gitHub: '',
+          'Olá, me chamo Deborah Camila, sou graduanda em Ciência da Computação e trabalho como desenvolvedora front-end. Atualmente, estou estudando para algumas áreas do meu interesse como, UX/UI e desenvolvimento em back-end. Gosto muito de partipar e organizar eventos e tenho muito interesse em iniciativas que promovem a inclusão social. Por isso eu participo de algumas comunidades como, Pyladies Recife, Django Girls, a rede de apoio da Unicap, UNICAs e do blog InspirAda na Computação. <3',
+        gitHub: 'https://github.com/debcamila',
+        linkedIn: 'https://www.linkedin.com/in/debcamila/',
        },
       {
         photo:
           'https://avatars3.githubusercontent.com/u/30838723?s=460&u=7c3a29e24638571141cb386ba931fcd0b091db5d&v=4',
         name: 'Cinthya Lins',
+        description:
+          'Estudante de Ciência da Computação na UFPE.',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
+        photo:
+          'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
+        name: '',
         description:
           '',
         gitHub: '',
@@ -177,9 +190,9 @@ export default [
           'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: 'Geysa Priscila',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Desenvolvedora FrontEnd na Avanade. Pós Graduanda em Computação Forense e Perícia Digital. Formada Gestão de TI. Apaixonada por canto e animais.',
         gitHub: 'https://github.com/GeysaPriscila',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/geysa-priscila/',
       },
       {
         photo:  'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
@@ -218,8 +231,8 @@ export default [
         name: 'Dhebbora Vasconcelos',
         description:
           'Tenho 27 anos, sou Designer Gráfico e curiosa em programação (frontend)',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/Dhebbora',
+        linkedIn: 'https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/',
       },
       {
         title: 'Members',
@@ -245,7 +258,7 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
-        name: '',
+        name: 'Eline Pimentel',
         description:
           '',
         gitHub: '',
@@ -254,7 +267,7 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
-        name: '',
+        name: 'Vanessa Oliveira',
         description: '',
         gitHub: '',
         linkedIn: '',
@@ -265,11 +278,11 @@ export default [
         name: '',
         description: '',
         gitHub: '',
-        linkedIn: '',
+        linkedIn: ''
       },
       {
         photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
-        name: '',
+        name: 'Tairine Freitas',
         description: '',
         gitHub: '',
         linkedIn: '',
