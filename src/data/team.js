@@ -122,7 +122,8 @@ export default [
         photo:
           'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
         name: 'Vanessa Oliveira',
-        description: '',
+        description:
+          'Falar sobre mim é complicado mas fazendo um resumo eu gosto de gatos, cachorros, fotos, cafeterias e cheiro de café, queria um dia ser barista e algumas outras profissões listadas no meu gitHub, escrevo uns textos e tenho uma lojinha chamada suncake.nessa gostaria muito de cativar o proximo com minha arte, obrigada por ver o site e lembre-se bebam água.',
         gitHub: '',
         linkedIn: '',
       },
