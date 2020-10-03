@@ -279,8 +279,8 @@ export default [
         photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
         name: 'Tairine Freitas',
         description: 'Amo ler e estou sempre com um livro por perto. No fim de 2019, resgatei a paixão por desenvolvimento web e tecnologia e decidi mudar de carreira. Desde então venho estudando e me desenvolvendo através de cursos online, curiosidade e muita vontade de aprender.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/TairineEllen',
+        linkedIn: 'https://www.linkedin.com/in/tairineellen/',
       },
       {
         photo:'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
