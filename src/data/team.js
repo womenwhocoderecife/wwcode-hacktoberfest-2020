@@ -162,8 +162,7 @@ export default [
         linkedIn: '',
       },
       {
-        photo:
-        'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
+        photo: 'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
         name: 'Gabryelle Soares',
         description:
         'Graduanda em Ciência da Computação na UFCG',
@@ -178,7 +177,15 @@ export default [
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: '',
         linkedIn: '',
-      }
+      },
+      {
+        photo:
+          'https://avatars0.githubusercontent.com/u/22648197?s=460&u=1fa64048d42c9cd4bf84c3fe3a1824360f05d054&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
     ],
   },
   
