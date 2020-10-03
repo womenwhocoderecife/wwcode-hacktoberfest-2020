@@ -165,6 +165,15 @@ export default [
         linkedIn: '',
       },
       {
+        photo:
+          'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
+        name: '',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
         photo: 'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
         name: 'Gabryelle Soares',
         description:
