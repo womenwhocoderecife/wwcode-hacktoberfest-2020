@@ -88,6 +88,15 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
+      {
+        photo:
+          'https://avatars2.githubusercontent.com/u/47783317?s=460&u=36f0ab07c616034e0378e4c62796d08008931612&v=4',
+        name: 'Tathiane Pinto',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
+      },
     ],
   },
   {
@@ -117,10 +126,42 @@ export default [
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
+      }, 
+      {
+        photo: 
+          'https://avatars1.githubusercontent.com/u/51760530?s=460&u=3de719963b658438c7e587a031ecc2187cbeacf6&v=4'
       },
       {
         photo:
           'https://avatars2.githubusercontent.com/u/66644938?s=460&u=81ec5682bb08332d1c0843d4d1f859e701a1785a&v=4',
+      },
+      {
+        photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
+       photo:
+          'https://avatars0.githubusercontent.com/u/38708826?s=460&u=93d99921f102e5e48a9289bf07f3a4030ed06e84&v=4',
+        name: '',
+        description:
+          '',
+        gitHub: '',
+       },
+      {
+        photo:
+        'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
+        name: 'Gabryelle Soares',
+        description:
+        'Graduanda em Ciência da Computação na UFCG',
+        gitHub: 'https://github.com/gabsoares11/',
+        linkedIn: 'https://www.linkedin.com/in/gabryelle-soares/'
+      },
+      {
+        photo:
+          'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: '',
         description:
           '',
