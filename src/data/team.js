@@ -117,6 +117,14 @@ export default [
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
       },
+      {
+        photo:
+          'https://avatars2.githubusercontent.com/u/8539260?s=460&u=e7ca9cc10eece529baed91d7bb996e66af13dafd&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
     ],
   },
   {
