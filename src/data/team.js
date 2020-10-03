@@ -140,7 +140,8 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
-      {  photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
+      {
+        photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
         name: 'Carolina Brito',
         description: 'Engenheira civil e administradora de formação, atualmente engenheira de software na Procenge. Participa das comunidades locais: facebook developers circle, wwcode recife, pyladies recife, frevo on rails, pug-pe. Apaixonada por Tecnologia e entusiasta de python e ruby <3',
         gitHub: 'https://github.com/COAB1',
@@ -181,6 +182,13 @@ export default [
         linkedIn: '',
       },
       {
+        photo:  'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
         photo:
           'https://avatars0.githubusercontent.com/u/22648197?s=460&u=1fa64048d42c9cd4bf84c3fe3a1824360f05d054&v=4',
         name: 'Karen Gomes',
@@ -188,13 +196,13 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
-    ],
-  },
-  
-  {
-    title: 'Members',
-    subtitle: 'Apoio para projeto ou evento',
-    data: [
+      {
+        photo: 'https://avatars0.githubusercontent.com/u/22648197?s=460&u=1fa64048d42c9cd4bf84c3fe3a1824360f05d054&v=4', 
+        name: '',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
+      },
       {
         photo:
           'https://avatars1.githubusercontent.com/u/48129096?s=460&u=9ad8a362NCMhN8ebeDS39jHTMor3xJoiW7mjSK23&v=4',
@@ -268,5 +276,4 @@ export default [
       }
     ],
   },
-   
 ];
