@@ -120,14 +120,14 @@ export default [
       },
       {
     title: 'Members',
-    subtitle: '',
+    subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
     data: [   
       {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
         name: 'Eline Pimentel',
         description:
-          '',
+          'Geógrafa estudando Desenvovimento Web Back-End em um bootcamp oferecido pela Reprograma em parceria com o Porto Digital/M.I.N.As. Para mim desistir não é gabarito. Não nasci para concorrer com os outros, pois concorro comigo todos os dias.',
         gitHub: '',
         linkedIn: '',
       },
