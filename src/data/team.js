@@ -139,7 +139,7 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
-        photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
+      {  photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
         name: 'Carolina Brito',
         description: 'Engenheira civil e administradora de formação, atualmente engenheira de software na Procenge. Participa das comunidades locais: facebook developers circle, wwcode recife, pyladies recife, frevo on rails, pug-pe. Apaixonada por Tecnologia e entusiasta de python e ruby <3',
         gitHub: 'https://github.com/COAB1',
@@ -182,7 +182,7 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/22648197?s=460&u=1fa64048d42c9cd4bf84c3fe3a1824360f05d054&v=4',
-        name: '',
+        name: 'Karen Gomes',
         description: '',
         gitHub: '',
         linkedIn: '',
@@ -213,19 +213,20 @@ export default [
         linkedIn: '',
       },
       {
-    title: 'Members',
-    subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
-    data: [
-      {
-        photo:
-          'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
-        name: 'Aline Rosa',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/alinecbsr',
-        linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
+        title: 'Members',
+        subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
+        data: [
+          {
+            photo:
+              'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
+            name: 'Aline Rosa',
+            description:
+              'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            gitHub: 'https://github.com/alinecbsr',
+            linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
+          },
+        ],
       },
-    ],
-  },
-   
+    ]
+  }
 ];
