@@ -100,7 +100,7 @@ export default [
         description:
           'Fullstack Developer. Participando primeira vez do HacktoberFest, estou achando incrívrel, as meninas do Woman Who Code Recife são maravilhosas.',
         gitHub: 'https://github.com/TathiClau',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/tathiane-pinto-b7a862105/',
       },
     ],
   },
