@@ -109,7 +109,7 @@ export default [
         name: 'Mercia Oliveira',
         description: 'Adoro desenvolvimento de jogos',
         gitHub: 'https://github.com/MerciaOliveira',
-        linkedIn: '',
+        linkedIn: 'https://linkedin.com/in/merciaoliveira',
       },
     ],
   },
