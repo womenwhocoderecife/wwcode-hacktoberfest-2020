@@ -118,6 +118,15 @@ export default [
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
       },
+      {
+        photo:
+        'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
+        name: 'Gabryelle Soares',
+        description:
+        'Graduanda em Ciência da Computação na UFCG',
+        gitHub: 'https://github.com/gabsoares11/',
+        linkedIn: 'https://www.linkedin.com/in/gabryelle-soares/'
+      },
     ],
   },
 ];
