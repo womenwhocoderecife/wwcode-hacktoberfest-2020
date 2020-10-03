@@ -81,8 +81,7 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
-        photo:
-          'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
+        photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
         name: '',
         description: '',
         gitHub: '',
