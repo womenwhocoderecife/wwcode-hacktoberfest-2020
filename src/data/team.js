@@ -219,7 +219,7 @@ export default [
       {
         photo:
           'https://avatars1.githubusercontent.com/u/48129096?s=460&u=9ad8a362NCMhN8ebeDS39jHTMor3xJoiW7mjSK23&v=4',
-        name: '',
+        name: 'Ana Beatriz',
         description:
           ' ',
         gitHub: '',
