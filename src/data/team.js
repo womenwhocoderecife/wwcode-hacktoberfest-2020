@@ -280,7 +280,11 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/tairineellen/',
       },
       {
+<<<<<<< HEAD
         photo: 'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
+=======
+        photo:'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
+>>>>>>> d66d2b4c40a5f7d590153d8fcb912cb9ef46785b
         name: 'Clarissa Leal',
         description: 'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
         gitHub: 'https://github.com/lealclarissa',
