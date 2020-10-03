@@ -31,7 +31,6 @@ const Session = props => {
             <Card key={Math.random()}>
               <Photo src={user.photo} alt={user.name} />
               <Name>{user.name}</Name>
-              <Participation>Director</Participation>
               <Description>{user.description}</Description>
               <SocialContext>
                 <Social href={user.gitHub} target="_blank">
