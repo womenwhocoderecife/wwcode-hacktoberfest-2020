@@ -33,6 +33,12 @@
     ]
   },
   "devDependencies": {
+    "git-cz": "^4.7.1",
     "styled-normalize": "^8.0.7"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/git-cz"
+    }
   }
 }
