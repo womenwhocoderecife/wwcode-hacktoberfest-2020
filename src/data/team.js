@@ -214,16 +214,16 @@ export default [
       },
       {
     title: 'Members',
-    subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
-    data: [
+    subtitle: '',
+    data: [   
       {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
-        name: 'Aline Rosa',
+        name: '',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/alinecbsr',
-        linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
+          '',
+        gitHub: '',
+        linkedIn: '',
       },
     ],
   },
