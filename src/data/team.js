@@ -6,12 +6,12 @@ export default [
     data: [
       {
         photo:
-          'https://avatars1.githubusercontent.com/u/6514093?s=400&u=68d4c28fd83f8c6929a63d75d44cd8da17bd478f&v=4',
-        name: 'Karina Machado',
+          'Foto de Karina',
+        name: 'Nome de Karina Machado',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/karinamachado',
-        linkedIn: 'https://www.linkedin.com/in/karinamachado/',
+        gitHub: 'Aqui link do git hub',
+        linkedIn: 'Aqui link do linkedin',
       },
       {
         photo: 'https://avatars0.githubusercontent.com/u/6129899?s=400&v=4',
