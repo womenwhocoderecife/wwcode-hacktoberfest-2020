@@ -107,7 +107,7 @@ export default [
         photo:
           'https://avatars2.githubusercontent.com/u/8539260?s=460&u=e7ca9cc10eece529baed91d7bb996e66af13dafd&v=4',
         name: 'Mercia Oliveira',
-        description: '',
+        description: 'Adoro desenvolvimento de jogos',
         gitHub: '',
         linkedIn: '',
       },
