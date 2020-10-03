@@ -155,6 +155,15 @@ export default [
         gitHub: 'https://github.com/gabsoares11/',
         linkedIn: 'https://www.linkedin.com/in/gabryelle-soares/'
       },
+      {
+        photo:
+          'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
+        name: '',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
+      }
     ],
   },
 ];
