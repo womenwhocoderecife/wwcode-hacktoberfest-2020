@@ -124,8 +124,8 @@ export default [
         name: 'Marília Andrade',
         description:
           '24 anos, estudante do curso de front-end, pela Rede Cidadã, arquiteta e designer. Atuo desenvolvendo identidades visuais, conteúdos gráficos e nas horas vagas projeto sonhos.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/mariliandrad',
+        linkedIn: 'https://www.linkedin.com/in/mariliandrad/',
       },
     ],
   },
