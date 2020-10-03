@@ -91,9 +91,9 @@ export default [
       {
         photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
         name: 'Shirleide da Silva',
-        description: '',
-        gitHub: '',
-        linkedIn: '',
+        description: '💜 Apaixonada por TI desde meus 9 anos, atualmente Developer Full Stack',
+        gitHub: 'https://github.com/shirleide',
+        linkedIn: 'https://www.linkedin.com/in/shirleide/',
       },
       {
         photo:
@@ -102,7 +102,7 @@ export default [
         description:
           'Fullstack Developer. Participando primeira vez do HacktoberFest, estou achando incrívrel, as meninas do Woman Who Code Recife são maravilhosas.',
         gitHub: 'https://github.com/TathiClau',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/tathiane-pinto-b7a862105/',
       },
     ],
   },
@@ -179,11 +179,11 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
-        name: '',
+        name: 'Maria Luísa Costa',
         description:
-          '',
-        gitHub: '',
-        linkedIn: '',
+          'Tenho 23 anos, sou estudante de desenvolvimento Front-End e amante de gatos.',
+        gitHub: 'https://github.com/maluhcosta',
+        linkedIn: 'https://www.linkedin.com/in/maluhcosta/',
       },
       {
         photo: 'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
@@ -195,7 +195,7 @@ export default [
       },
       {
         photo:
-          'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
+         'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: 'Geysa Priscila',
         description:
           'Desenvolvedora FrontEnd na Avanade. Pós Graduanda em Computação Forense e Perícia Digital. Formada Gestão de TI. Apaixonada por canto e animais.',
@@ -203,24 +203,25 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/geysa-priscila/',
       },
       {
-        photo: 'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
-        name: '',
-        description: '',
-        gitHub: '',
-        linkedIn: '',
+        photo:
+ 'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
+        name: 'Sara Sales',
+        description: 'Sou estudante da área de tecnologia há mais de um ano, e sou apaixonada por mudanças e impactos causados pela tecnologia .',
+        gitHub: 'https://github.com/saracristinas', 
+        linkedIn: 'https://www.linkedin.com/in/sara-sales-95520618a/',
       },
       {
         photo:
           'https://avatars0.githubusercontent.com/u/22648197?s=460&u=1fa64048d42c9cd4bf84c3fe3a1824360f05d054&v=4',
         name: 'Karen Gomes',
-        description: '',
-        gitHub: '',
-        linkedIn: '',
+        description: 'Desenvolvedora FrontEnd com ênfase em ReactJS no Centro de Inovação EDGE e estudante de Ciência da Computação pela Ufal. Participa do Katie Ufal e também do PyLadies Maceió. Linguagens com mais afinidade: JavaScript, C, Java e Python.',
+        gitHub: 'https://github.com/karenngomes',
+        linkedIn: 'https://www.linkedin.com/in/karenngomes/',
       },
       {
         photo:
           'https://avatars1.githubusercontent.com/u/48129096?s=460&u=9ad8a362NCMhN8ebeDS39jHTMor3xJoiW7mjSK23&v=4',
-        name: '',
+        name: 'Ana Beatriz',
         description:
           ' ',
         gitHub: '',
@@ -249,9 +250,9 @@ export default [
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
         name: 'Eline Pimentel',
         description:
-          '',
-        gitHub: '',
-        linkedIn: '',
+          'Geógrafa estudando Desenvolvimento Web Back-End em um bootcamp oferecido pela Reprograma em parceria com o Porto Digital/M.I.N.As. Para mim desistir não é gabarito. Não nasci para concorrer com os outros, pois concorro comigo todos os dias.',
+        gitHub: 'https://github.com/eline-create',
+        linkedIn: 'https://www.linkedin.com/in/eline-silva-de-paula-pimentel-1424a23a/',
       },
       {
         photo:
@@ -259,30 +260,31 @@ export default [
         name: 'Vanessa Oliveira',
         description:
           'Falar sobre mim é complicado mas fazendo um resumo eu gosto de gatos, cachorros, fotos, cafeterias e cheiro de café, queria um dia ser barista e algumas outras profissões listadas no meu gitHub, escrevo uns textos e tenho uma lojinha chamada suncake.nessa gostaria muito de cativar o proximo com minha arte, obrigada por ver o site e lembre-se bebam água.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/nessalive',
+        linkedIn: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
       },
       {
         photo:
           'https://avatars1.githubusercontent.com/u/66646610?s=460&u=9ce0cfb47a543384772419271a21d3d58698c75d&v=4',
         name: 'Marília Andrade',
-        description: '',
-        gitHub: '',
-        linkedIn: ''
+        description:
+          '24 anos, estudante do curso de front-end, pela Rede Cidadã, arquiteta e designer. Atuo desenvolvendo identidades visuais, conteúdos gráficos e nas horas vagas projeto sonhos.',
+        gitHub: 'https://github.com/mariliandrad',
+        linkedIn: 'https://www.linkedin.com/in/mariliandrad/',
       },
       {
         photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
         name: 'Tairine Freitas',
         description: 'Amo ler e estou sempre com um livro por perto. No fim de 2019, resgatei a paixão por desenvolvimento web e tecnologia e decidi mudar de carreira. Desde então venho estudando e me desenvolvendo através de cursos online, curiosidade e muita vontade de aprender.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/TairineEllen',
+        linkedIn: 'https://www.linkedin.com/in/tairineellen/',
       },
       {
-        photo: 'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
-        name: '',
-        description: '',
-        gitHub: '',
-        linkedIn: '',
+        photo:'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
+        name: 'Clarissa Leal',
+        description:'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
+        gitHub: 'https://github.com/lealclarissa',
+        linkedIn: 'https://www.linkedin.com/in/clarissa-leal-soares/',
       },
     ],
   },
