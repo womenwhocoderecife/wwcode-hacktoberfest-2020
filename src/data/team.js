@@ -193,7 +193,7 @@ export default [
       },
       {
         photo:
-          'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
+         'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: 'Geysa Priscila',
         description:
           'Desenvolvedora FrontEnd na Avanade. Pós Graduanda em Computação Forense e Perícia Digital. Formada Gestão de TI. Apaixonada por canto e animais.',
@@ -201,8 +201,9 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/geysa-priscila/',
       },
       {
-        photo:  'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
-        name: '',
+        photo:
+ 'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
+        name: 'Sara Sales',
         description: '',
         gitHub: '',
         linkedIn: '',
