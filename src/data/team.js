@@ -120,9 +120,9 @@ export default [
       {
         photo:
           'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
-        name: 'Aline Rosa',
+        name: 'Mayhhara Morais',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Dev em construção, apaixonada por Senhor dos Anéis e outras nerdeiras.',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
       }, 
