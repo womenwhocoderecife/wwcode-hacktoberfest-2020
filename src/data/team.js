@@ -81,9 +81,15 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
       },
       {
+        photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
+        name: 'Ilza Medeiros',
+        description:
+          '',
+      },
+     {
         photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
         name: 'Shirleide da Silva',
-        description: '',
+        description: '💜 Apaixonada por TI desde meus 9 anos, atualmente Developer Full Stack',
         gitHub: '',
         linkedIn: '',
       },
@@ -171,9 +177,9 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
-        name: '',
+        name: 'Maria Luísa Costa',
         description:
-          '',
+          'Tenho 23 anos, sou estudante de desenvolvimento Front-End e amante de gatos.',
         gitHub: '',
         linkedIn: '',
       },
@@ -187,7 +193,7 @@ export default [
       },
       {
         photo:
-          'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
+         'https://avatars1.githubusercontent.com/u/14184611?s=460&u=bd150bff502151a907e3cba182872b9cfdc94be5&v=4',
         name: 'Geysa Priscila',
         description:
           'Desenvolvedora FrontEnd na Avanade. Pós Graduanda em Computação Forense e Perícia Digital. Formada Gestão de TI. Apaixonada por canto e animais.',
@@ -195,8 +201,9 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/geysa-priscila/',
       },
       {
-        photo:  'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
-        name: '',
+        photo:
+ 'https://avatars0.githubusercontent.com/u/52602999?s=460&u=3eba07ab5107f70f5004c9432854bcd03f65a802&v=4',
+        name: 'Sara Sales',
         description: '',
         gitHub: '',
         linkedIn: '',
@@ -228,34 +235,22 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/',
       },
       {
-        title: 'Members',
-        subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
-        data: [
-          {
-            photo:
-              'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
-            name: 'Aline Rosa',
-            description:
+        photo:
+          'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
+        name: 'Aline Rosa',
+        description:
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-            gitHub: 'https://github.com/alinecbsr',
-            linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
-          },
-        ],
-      },
-    ]
-  },
-  {  
-    title: 'Members',
-    subtitle: '',
-    data: [   
-      {
+        gitHub: 'https://github.com/alinecbsr',
+        linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
+       },   
+       {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
         name: 'Eline Pimentel',
         description:
-          '',
-        gitHub: '',
-        linkedIn: '',
+          'Geógrafa estudando Desenvolvimento Web Back-End em um bootcamp oferecido pela Reprograma em parceria com o Porto Digital/M.I.N.As. Para mim desistir não é gabarito. Não nasci para concorrer com os outros, pois concorro comigo todos os dias.',
+        gitHub: 'https://github.com/eline-create',
+        linkedIn: 'https://www.linkedin.com/in/eline-silva-de-paula-pimentel-1424a23a/',
       },
       {
         photo:
@@ -263,14 +258,15 @@ export default [
         name: 'Vanessa Oliveira',
         description:
           'Falar sobre mim é complicado mas fazendo um resumo eu gosto de gatos, cachorros, fotos, cafeterias e cheiro de café, queria um dia ser barista e algumas outras profissões listadas no meu gitHub, escrevo uns textos e tenho uma lojinha chamada suncake.nessa gostaria muito de cativar o proximo com minha arte, obrigada por ver o site e lembre-se bebam água.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/nessalive',
+        linkedIn: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
       },
       {
         photo:
           'https://avatars1.githubusercontent.com/u/66646610?s=460&u=9ce0cfb47a543384772419271a21d3d58698c75d&v=4',
-        name: '',
-        description: '',
+        name: 'Marília Andrade',
+        description:
+          '24 anos, estudante do curso de front-end, pela Rede Cidadã, arquiteta e designer. Atuo desenvolvendo identidades visuais, conteúdos gráficos e nas horas vagas projeto sonhos.',
         gitHub: '',
         linkedIn: ''
       },
@@ -278,13 +274,13 @@ export default [
         photo: 'https://avatars1.githubusercontent.com/u/62630068?s=460&v=4',
         name: 'Tairine Freitas',
         description: 'Amo ler e estou sempre com um livro por perto. No fim de 2019, resgatei a paixão por desenvolvimento web e tecnologia e decidi mudar de carreira. Desde então venho estudando e me desenvolvendo através de cursos online, curiosidade e muita vontade de aprender.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/TairineEllen',
+        linkedIn: 'https://www.linkedin.com/in/tairineellen/',
       },
       {
         photo:'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
-        name: '',
-        description:'',
+        name: 'Clarissa Leal',
+        description:'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
         gitHub: '',
         linkedIn: '',
       },
