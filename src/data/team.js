@@ -210,13 +210,6 @@ export default [
         linkedIn: '',
       },
       {
-        photo: 'https://avatars0.githubusercontent.com/u/22648197?s=460&u=1fa64048d42c9cd4bf84c3fe3a1824360f05d054&v=4', 
-        name: '',
-        description: '',
-        gitHub: '',
-        linkedIn: '',
-      },
-      {
         photo:
           'https://avatars1.githubusercontent.com/u/48129096?s=460&u=9ad8a362NCMhN8ebeDS39jHTMor3xJoiW7mjSK23&v=4',
         name: '',
