@@ -88,6 +88,15 @@ export default [
         gitHub: '',
         linkedIn: '',
       },
+      {
+        photo:
+          'https://avatars2.githubusercontent.com/u/47783317?s=460&u=36f0ab07c616034e0378e4c62796d08008931612&v=4',
+        name: 'Tathiane Pinto',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
+      },
     ],
   },
   {
@@ -126,6 +135,15 @@ export default [
           '',
         gitHub: '',
         linkedIn: '',
+      },
+      {
+        photo:
+        'https://avatars1.githubusercontent.com/u/29581419?s=460&u=4b6e687bec0dd382d4293af3fc1f73a308bb34a9&v=4',
+        name: 'Gabryelle Soares',
+        description:
+        'Graduanda em Ciência da Computação na UFCG',
+        gitHub: 'https://github.com/gabsoares11/',
+        linkedIn: 'https://www.linkedin.com/in/gabryelle-soares/'
       },
     ],
   },
