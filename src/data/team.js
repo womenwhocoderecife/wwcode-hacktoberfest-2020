@@ -122,7 +122,7 @@ export default [
           'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
         name: 'Mayhhara Morais',
         description:
-          'Dev em construção, apaixonada por Senhor dos Anéis e outras nerdeiras.',
+          'Dev em construção, apaixonada por Senhor dos Anéis e outras nerdeiras',
         gitHub: 'https://github.com/alinecbsr',
         linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
       }, 
