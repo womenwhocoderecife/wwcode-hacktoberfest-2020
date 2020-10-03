@@ -225,7 +225,7 @@ export default [
       {
         photo:
           'https://avatars0.githubusercontent.com/u/68877353?s=460&u=b3872c3c1f3f726e4a3195e4e46054019e90c962&v=4',
-        name: '',
+        name: 'Eline Pimentel',
         description:
           '',
         gitHub: '',
