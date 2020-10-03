@@ -120,7 +120,7 @@ export default [
       },
       {
         photo: 'https://avatars1.githubusercontent.com/u/50220493?s=460&u=55bd13a9eed761407ed5f21ea6fa4220806efc1e&v=4',
-        name: '',
+        name: 'Carolina Brito',
         description: '',
         gitHub: '',
         linkedIn: '',
