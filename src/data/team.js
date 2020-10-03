@@ -106,7 +106,7 @@ export default [
       {
         photo:
           'https://avatars2.githubusercontent.com/u/8539260?s=460&u=e7ca9cc10eece529baed91d7bb996e66af13dafd&v=4',
-        name: '',
+        name: 'Mercia Oliveira',
         description: '',
         gitHub: '',
         linkedIn: '',
