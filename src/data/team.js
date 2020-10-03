@@ -206,7 +206,7 @@ export default [
         name: 'Sara Sales',
         description: 'Sou estudante da área de tecnologia há mais de um ano, e sou apaixonada por mudanças e impactos causados pela tecnologia .',
         gitHub: 'https://github.com/saracristinas', 
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/sara-sales-95520618a/',
       },
       {
         photo:
