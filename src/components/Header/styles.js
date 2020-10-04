@@ -69,6 +69,10 @@ export const Logo = styled.img`
     animation: 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s 1 normal both running
       ${puffOutCenter};
   }
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 62%;
+  }
 `;
 
 export const Nav = styled.nav`
