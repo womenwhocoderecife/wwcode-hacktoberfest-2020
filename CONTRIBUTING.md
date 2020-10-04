@@ -30,7 +30,7 @@
 <br/>
 <h5>Se você não tiver algum, segue o link com o site oficial:</h5>
 
-1. 🔽 [VSCode](https://code.visualstudio.com/) 
+1. 🔽 [VSCode](https://code.visualstudio.com/)
 2. 🔽 [Node](https://nodejs.org/en/)
 3. 🔽 [Git](https://git-scm.com/)
 4. 🔽 [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install)
