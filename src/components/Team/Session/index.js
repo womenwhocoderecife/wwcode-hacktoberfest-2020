@@ -16,8 +16,6 @@ import {
   Icon,
 } from '../../../shared-ui/Typography';
 
-import { PARTICIPATION } from "../../../data/util";
-
 const Session = props => {
   const data = props.data || null;
   const title = props.title || '';
@@ -33,7 +31,7 @@ const Session = props => {
             <Card key={Math.random()}>
               <Photo src={user.photo} alt={user.name} />
               <Name>{user.name}</Name>
-              <Participation>{PARTICIPATION[title] || 'Director'}</Participation>
+              <Participation>Director</Participation>
               <Description>{user.description}</Description>
               <SocialContext>
                 <Social href={user.gitHub} target="_blank">
