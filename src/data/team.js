@@ -7,7 +7,7 @@ export default [
       {
         photo:
           'https://avatars1.githubusercontent.com/u/6514093?s=460&u=68d4c28fd83f8c6929a63d75d44cd8da17bd478f&v=4',
-        name: 'Nome',
+        name: 'Karina Machado',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         gitHub: 'Aqui link do git hub',
