@@ -10,8 +10,8 @@ export default [
         name: 'Karina Machado ',
         description:
           'Graduação em Gestão em TI pela Faculdade de Guararapes - Laureate - experiência de mais de 10 anos em TI nas áreas de empreendedorismo, educação e desenvolvimento, atualmente atua como desenvolvedora front-end e estudando a área de UI/UX Designer.',
-        gitHub: 'Aqui link do git hub',
-        linkedIn: 'Aqui link do linkedin',
+        gitHub: 'https://github.com/karinamachado',
+        linkedIn: 'https://www.linkedin.com/in/karinamachado/',
       },
       {
         photo: 'https://avatars0.githubusercontent.com/u/6129899?s=400&v=4',
