@@ -104,6 +104,13 @@ export default [
         gitHub: 'https://github.com/TathiClau',
         linkedIn: 'https://www.linkedin.com/in/tathiane-pinto-b7a862105/',
       },
+      {
+        photo: 'https://avatars2.githubusercontent.com/u/21042186?s=460&u=d0ca328dd655188f20082b281fd9594270d2bd96&v=4',
+        name: 'Myllena Alves',
+        description: 'Estudante de Sistemas de Informacão e desenvolvedora, estou contribuindo para o wwcode há mais de 1 ano, colaborando na mentoria do WomenDevProjects (track frontend) e ajudando em eventos',
+        gitHub: 'https://github.com/myllenaalves',
+        linkedIn: 'https://www.linkedin.com/in/myllena-alves-257544144/',
+      }
     ],
   },
   {
