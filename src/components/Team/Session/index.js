@@ -16,10 +16,7 @@ import {
   Icon,
 } from '../../../shared-ui/Typography';
 
-const Session = props => {
-  const data = props.data || null;
-  const title = props.title || '';
-  const subtitle = props.subtitle || '';
+const Session = ({data, title, subtitle}) => {
 
   return (
     <Content>
