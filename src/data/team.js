@@ -298,8 +298,8 @@ export default [
         photo:'https://avatars2.githubusercontent.com/u/37213288?s=400&u=6334fe21c0c03fb0e7e911abc7d72068f9871327&v=4',
         name: 'Camila Silva',
         description:'Mãe de duas, desenvolvedora Front-end, entusiasta por tecnologia e que anseia por conhecimento. Adoro assistir séries e ficar criando teorias sobre elas.',
-        gitHub: '',
-        linkedIn: '',
+        gitHub: 'https://github.com/camilars',
+        linkedIn: 'https://www.linkedin.com/in/camilarrsilva/',
       }
     ],
   },
