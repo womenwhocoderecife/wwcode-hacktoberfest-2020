@@ -9,7 +9,7 @@ export default [
           'https://avatars1.githubusercontent.com/u/6514093?s=460&u=68d4c28fd83f8c6929a63d75d44cd8da17bd478f&v=4',
         name: 'Karina Machado ',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          'Graduação em Gestão em TI pela Faculdade de Guararapes - Laureate - experiência de mais de 10 anos em TI nas áreas de empreendedorismo, educação e desenvolvimento, atualmente atua como desenvolvedora front-end e estudando a área de UI/UX Designer.',
         gitHub: 'Aqui link do git hub',
         linkedIn: 'Aqui link do linkedin',
       },
