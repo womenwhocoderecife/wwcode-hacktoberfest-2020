@@ -316,7 +316,7 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/cTahirih/',
       },
       {
-        photo:'',
+        photo:'https://avatars3.githubusercontent.com/u/6611514?s=460&u=4bf5a597e07333a4f65fb200a70cc2306ec8edd1&v=4',
         name: 'Raquel Oliveira',
         description: '',
         gitHub: '',
