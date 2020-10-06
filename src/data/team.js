@@ -314,6 +314,13 @@ export default [
         description: 'Hello, Frontend and FullSnack Developer (Coffee ☕, chips 🍟, ice creams 🍦 all for snacking while something is being devised).',
         gitHub: 'https://github.com/cTahirih',
         linkedIn: 'https://www.linkedin.com/in/cTahirih/',
+      },
+      {
+        photo:'',
+        name: 'Raquel Oliveira',
+        description: '',
+        gitHub: '',
+        linkedIn: '',
       }
     ],
   },
