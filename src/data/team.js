@@ -321,6 +321,13 @@ export default [
         description: 'Aspirante a desenvolvedora.',
         gitHub: 'https://github.com/RaquelOliveira',
         linkedIn: 'https://www.linkedin.com/in/raquelods/',
+      },
+      {
+        photo:'https://avatars2.githubusercontent.com/u/14111673?s=460&u=e522a6fce2e6b5a403fc647f23437ec6052df1f5&v=4',
+        name: 'Luciana Nunes',
+        description: 'Entusiasta por produto e resolução de problemas, apaixonada por agilidade, práticas e desenvolvimento ágil.',
+        gitHub: 'https://github.com/lcnunes09',
+        linkedIn: 'https://www.linkedin.com/in/lcnunes09/',
       }
     ],
   },
