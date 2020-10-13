@@ -331,7 +331,7 @@ export default [
       },
       {
         photo:
-          '',
+          'https://avatars0.githubusercontent.com/u/15926116?s=460&u=f80937c18b7fa651198d412d0e3bdd004977a9ef&v=4',
         name: 'Marina Barros',
         description:
           '',
