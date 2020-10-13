@@ -328,6 +328,15 @@ export default [
         description: 'Entusiasta por produto e resolução de problemas, apaixonada por agilidade, práticas e desenvolvimento ágil.',
         gitHub: 'https://github.com/lcnunes09',
         linkedIn: 'https://www.linkedin.com/in/lcnunes09/',
+      },
+      {
+        photo:
+          '',
+        name: '',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
       }
     ],
   },
