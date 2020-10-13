@@ -332,7 +332,7 @@ export default [
       {
         photo:
           '',
-        name: '',
+        name: 'Marina Barros',
         description:
           '',
         gitHub: '',
