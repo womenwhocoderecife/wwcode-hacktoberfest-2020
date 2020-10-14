@@ -335,7 +335,7 @@ export default [
         name: 'Marina Barros',
         description:
           'Programadora iOS ex aluna do Developer Academy, estudante do curso Ciência da Computação da UFPE.',
-        gitHub: '',
+        gitHub: 'https://github.com/marina-barros',
         linkedIn: '',
       }
     ],
