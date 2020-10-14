@@ -336,7 +336,7 @@ export default [
         description:
           'Programadora iOS ex aluna do Developer Academy, estudante do curso Ciência da Computação da UFPE.',
         gitHub: 'https://github.com/marina-barros',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/marina-barros-80b582173/',
       }
     ],
   },
