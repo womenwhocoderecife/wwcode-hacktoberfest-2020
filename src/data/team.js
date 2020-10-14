@@ -328,6 +328,15 @@ export default [
         description: 'Entusiasta por produto e resolução de problemas, apaixonada por agilidade, práticas e desenvolvimento ágil.',
         gitHub: 'https://github.com/lcnunes09',
         linkedIn: 'https://www.linkedin.com/in/lcnunes09/',
+      },
+      {
+        photo:
+          'https://avatars0.githubusercontent.com/u/15926116?s=460&u=f80937c18b7fa651198d412d0e3bdd004977a9ef&v=4',
+        name: 'Marina Barros',
+        description:
+          '',
+        gitHub: '',
+        linkedIn: '',
       }
     ],
   },
