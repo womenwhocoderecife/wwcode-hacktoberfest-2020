@@ -334,7 +334,7 @@ export default [
           'https://avatars0.githubusercontent.com/u/15926116?s=460&u=f80937c18b7fa651198d412d0e3bdd004977a9ef&v=4',
         name: 'Marina Barros',
         description:
-          '',
+          'Programadora iOS ex aluna do Developer Academy, estudante do curso Ciência da Computação da UFPE.',
         gitHub: '',
         linkedIn: '',
       }
