@@ -295,35 +295,35 @@ export default [
         linkedIn: 'https://www.linkedin.com/in/tairineellen/',
       },
       {
-        photo:'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
+        photo: 'https://avatars2.githubusercontent.com/u/69424163?s=460&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4',
         name: 'Clarissa Leal',
         description: 'Formada em Gastronomia pela UFRPE. Atualmente sou aluna do curso de backend {reprograma} em parceria com o MINAs do Porto Digital de Recife. Tenho 28 anos, estou amando aprender a programar e buscando uma transição de carreia.',
         gitHub: 'https://github.com/lealclarissa',
         linkedIn: 'https://www.linkedin.com/in/clarissa-leal-soares/',
       },
       {
-        photo:'https://avatars2.githubusercontent.com/u/37213288?s=400&u=6334fe21c0c03fb0e7e911abc7d72068f9871327&v=4',
+        photo: 'https://avatars2.githubusercontent.com/u/37213288?s=400&u=6334fe21c0c03fb0e7e911abc7d72068f9871327&v=4',
         name: 'Camila Silva',
-        description:'Mãe de duas, desenvolvedora Front-end, entusiasta por tecnologia e que anseia por conhecimento. Adoro assistir séries e ficar criando teorias sobre elas.',
+        description: 'Mãe de duas, desenvolvedora Front-end, entusiasta por tecnologia e que anseia por conhecimento. Adoro assistir séries e ficar criando teorias sobre elas.',
         gitHub: 'https://github.com/camilars',
         linkedIn: 'https://www.linkedin.com/in/camilarrsilva/',
       },
       {
-        photo:'https://avatars2.githubusercontent.com/u/32286691?s=460&u=d39655b15990fbd6319756e99b064f2076e7f66c&v=4',
+        photo: 'https://avatars2.githubusercontent.com/u/32286691?s=460&u=d39655b15990fbd6319756e99b064f2076e7f66c&v=4',
         name: 'Tahirih Jaliri',
         description: 'Hello, Frontend and FullSnack Developer (Coffee ☕, chips 🍟, ice creams 🍦 all for snacking while something is being devised).',
         gitHub: 'https://github.com/cTahirih',
         linkedIn: 'https://www.linkedin.com/in/cTahirih/',
       },
       {
-        photo:'https://avatars3.githubusercontent.com/u/6611514?s=460&u=4bf5a597e07333a4f65fb200a70cc2306ec8edd1&v=4',
+        photo: 'https://avatars3.githubusercontent.com/u/6611514?s=460&u=4bf5a597e07333a4f65fb200a70cc2306ec8edd1&v=4',
         name: 'Raquel Oliveira',
         description: 'Aspirante a desenvolvedora.',
         gitHub: 'https://github.com/RaquelOliveira',
         linkedIn: 'https://www.linkedin.com/in/raquelods/',
       },
       {
-        photo:'https://avatars2.githubusercontent.com/u/14111673?s=460&u=e522a6fce2e6b5a403fc647f23437ec6052df1f5&v=4',
+        photo: 'https://avatars2.githubusercontent.com/u/14111673?s=460&u=e522a6fce2e6b5a403fc647f23437ec6052df1f5&v=4',
         name: 'Luciana Nunes',
         description: 'Entusiasta por produto e resolução de problemas, apaixonada por agilidade, práticas e desenvolvimento ágil.',
         gitHub: 'https://github.com/lcnunes09',
@@ -337,6 +337,15 @@ export default [
           'Programadora iOS ex aluna do Developer Academy, estudante do curso Ciência da Computação da UFPE.',
         gitHub: 'https://github.com/marina-barros',
         linkedIn: 'https://www.linkedin.com/in/marina-barros-80b582173/',
+      },
+      {
+        photo:
+          'https://avatars0.githubusercontent.com/u/64492108?s=460&u=3f62f6f1c973cee9416c84cbea265e5ed55dbdf1&v=4',
+        name: 'Larisse Lima',
+        description:
+          'Desenvolvedora Frontend , apaixonada por tecnologia e unicórnios.',
+        gitHub: 'hhttps://github.com/LarisseLima',
+        linkedIn: 'https://www.linkedin.com/in/larisselima/',
       }
     ],
   },
