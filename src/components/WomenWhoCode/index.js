@@ -1,7 +1,7 @@
 import React from 'react';
-import WWCode from '../../assets/images/WomenWhoCode.png';
+import WWCode from '../../assets/images/logo-katie-2.png';
 import { Section } from '../../shared-ui/Layout';
-import { Pink, Social } from '../../shared-ui/Typography';
+// import { Pink, Social } from '../../shared-ui/Typography';
 import {
   Statement,
   LogoLink,
@@ -15,30 +15,27 @@ import {
 const WomenWhoCode = () => (
   <Section id="womenWhoCode">
     <Article>
-      <LogoLink href="https://www.womenwhocode.com/" target="_blank">
+      <LogoLink href="https://ic.ufal.br/extensao/katie/" target="_blank">
         <Logo src={WWCode} />
       </LogoLink>
       <Context>
-        O Women Who Code começou como um grupo comunitário em 2011, quando
-        algumas tecnólogas decidiram que queriam mudar a experiência da
-        indústria para as engenheiras.Desde então, tornou-se uma organização
-        global sem fins lucrativos e a maior e mais ativa comunidade do mundo
-        dedicada a inspirar mulheres a se destacarem em carreiras em tecnologia.
+      Katie é um grupo formado por mulheres do Instituto de Computação da UFAL. 
+      Nosso objetivo é promover ações de apoio e incentivo às estudantes.
       </Context>
     </Article>
-    <Statement>
+    {/* <Statement>
       <Pink>Uma cidade</Pink> por vez. Women Who Code se espalhou pelo mundo,
       alcançando mais de 20 países.
     </Statement>
     <Explanation>
       Faça parte da comunidade, acompanhe os eventos e oportunidades!
       <Social href="https://www.womenwhocode.com/" target="_blank">
-        <PinkStrong> Conheça o site oficial do WWCODE! </PinkStrong>
+        <PinkStrong> Conheça o site oficial do Katie Ufal! </PinkStrong>
       </Social>
       Cada cidade tem sua própria cultura única e líderes locais que se tornaram
       líderes do nosso movimento, abrindo caminho para a nova face da
       tecnologia.
-    </Explanation>
+    </Explanation> */}
   </Section>
 );
 

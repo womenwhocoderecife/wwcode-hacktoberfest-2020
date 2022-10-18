@@ -22,7 +22,7 @@ export default function Footer() {
         </MenuItemLink>
       </div>
       <Details>
-        <Copyright>© 2020 DigitalOcean, LLC. All rights reserved.</Copyright>
+        <Copyright>© 2022 DigitalOcean, LLC. All rights reserved.</Copyright>
         <MenuList>
           {legal.map(({ href, name }, index) => (
             <MenuItem key={index}>

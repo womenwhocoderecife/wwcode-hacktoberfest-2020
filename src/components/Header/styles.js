@@ -27,7 +27,7 @@ export const HeaderStyle = styled.header`
   width: 100%;
   height: 116px;
   background-color: ${props =>
-    props.scroll > 0 ? '#071a297a' : colors.primaryDark};
+    props.scroll > 0 ? '#170f1e54' : colors.primaryDark};
 
   @media (max-width: 507px) {
     height: 80px;
