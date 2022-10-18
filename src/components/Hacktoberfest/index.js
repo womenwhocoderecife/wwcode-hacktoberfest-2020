@@ -1,5 +1,5 @@
 import React from 'react';
-import Hacktoberfest from '../../assets/images/hacktoberfest2020.svg';
+import Hacktoberfest from '../../assets/images/hacktoberfest2022.svg';
 import ParticipationPink from '../../assets/images/participationPink.svg';
 import Discord from '../../assets/images/btn.svg';
 import { connections } from '../../data/links';
@@ -19,7 +19,7 @@ import {
 const Hero = () => (
   <Section id="HacktoberFest">
     <Top src={ParticipationPink} />
-    <Statement>Hacktoberfest 2020</Statement>
+    <Statement>Hacktoberfest 2022</Statement>
     <Context>
       Hacktoberfest é uma celebração de um mês de software de código aberto
       organizada pela DigitalOcean.

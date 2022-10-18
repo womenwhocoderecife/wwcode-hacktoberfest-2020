@@ -92,7 +92,7 @@ export default function Header() {
                 activeSection={activeSection}
                 onClick={() => setMenuVisibility(false)}
               >
-                Hacktoberfest 2020
+                Hacktoberfest 2022
               </ListLink>
             </ListItem>
           </NavList>
