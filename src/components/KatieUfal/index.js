@@ -4,8 +4,8 @@ import { Section } from '../../shared-ui/Layout';
 import { Pink, Social } from '../../shared-ui/Typography';
 import { Statement, Logo } from './styles';
 
-const WWCodeRecife = () => (
-  <Section id="WWCodeRecife">
+const KatieUfal = () => (
+  <Section id="team">
     <Statement>
       Conheça a nossa comunidade na <Pink>Ufal</Pink>, que tem como objetivo
       inspirar e colaborar para a insersão e o desenvolvimento de{' '}
@@ -18,4 +18,4 @@ const WWCodeRecife = () => (
   </Section>
 );
 
-export default WWCodeRecife;
+export default KatieUfal;

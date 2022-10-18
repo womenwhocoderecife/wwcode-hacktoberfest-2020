@@ -6,8 +6,8 @@ import HacktoberFest from './components/Hacktoberfest';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Team from './components/Team';
-import WomenWhoCode from './components/WomenWhoCode';
-import WWCodeRecife from './components/WWCodeRecife';
+import Katie from './components/Katie';
+import KatieUfal from './components/KatieUfal';
 import Footer from './components/Footer';
 
 const App = () => (
@@ -17,8 +17,8 @@ const App = () => (
 
     <Header />
     <Hero />
-    <WomenWhoCode />
-    <WWCodeRecife />
+    <Katie />
+    <KatieUfal />
     <Team />
     <HacktoberFest />
     <Footer />
