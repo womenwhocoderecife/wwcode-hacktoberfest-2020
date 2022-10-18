@@ -33,24 +33,24 @@
 <br/> 
 <p align="center">📲  <strong>Conheça e nos acompanhe em nossas redes sociais:</strong></p>
 <h3 align="center">
-  <a href="https://github.com/womenwhocoderecife" target="_blank" width="80px" align="center">
+  <a href="https://github.com/GrupoKatie" target="_blank" width="80px" align="center">
     <img alt="Github" src=".github/github.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.linkedin.com/company/women-who-code-recife/" target="_blank" width="80px" align="center">
+  <a href="https://www.linkedin.com/company/katie.ufal/" target="_blank" width="80px" align="center">
     <img alt="Linkedin" src=".github/linkedin.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.meetup.com/pt-BR/Women-Who-Code-Recife/" target="_blank" width="80px" align="center">
+  <!-- <a href="https://www.meetup.com/pt-BR/Women-Who-Code-Recife/" target="_blank" width="80px" align="center">
     <img alt="Meetup" src=".github/meetup.svg" width="30px" align="center"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/katie.ufal" target="_blank" width="80px" align="center">
     <img alt="Instagram" src=".github/instagram.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.facebook.com/groups/wwcrecife/" target="_blank" width="80px" align="center">
+  <!-- <a href="https://www.facebook.com/groups/wwcrecife/" target="_blank" width="80px" align="center">
     <img alt="Facebook" src=".github/faceb00k.svg" width="30px" align="center"/>
-  </a>
-  <a href="https://twitter.com/WWCode_Recife" target="_blank" width="80px" align="center">
+  </a> -->
+  <!-- <a href="https://twitter.com/WWCode_Recife" target="_blank" width="80px" align="center">
     <img alt="Twitter" src=".github/twitter.svg" width="30px" align="center"/>
-  </a>
+  </a> -->
   <a href="https://discord.gg/vNfAb4" target="_blank" width="80px" align="center">
     <img alt="Twitter" src=".github/discord.svg" width="30px" align="center"/>
   </a>
