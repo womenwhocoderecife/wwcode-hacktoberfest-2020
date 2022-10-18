@@ -42,7 +42,7 @@
   <a href="https://www.meetup.com/pt-BR/Women-Who-Code-Recife/" target="_blank" width="80px" align="center">
     <img alt="Meetup" src=".github/meetup.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.instagram.com/wwcoderecife" target="_blank" width="80px" align="center">
+  <a href="https://www.instagram.com/katie.ufal" target="_blank" width="80px" align="center">
     <img alt="Instagram" src=".github/instagram.svg" width="30px" align="center"/>
   </a>
   <a href="https://www.facebook.com/groups/wwcrecife/" target="_blank" width="80px" align="center">

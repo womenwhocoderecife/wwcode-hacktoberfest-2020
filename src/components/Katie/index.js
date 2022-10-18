@@ -1,5 +1,5 @@
 import React from 'react';
-import WWCode from '../../assets/images/logo-katie-2.png';
+import LogoKatie from '../../assets/images/logo-katie-2.png';
 import { Section } from '../../shared-ui/Layout';
 // import { Pink, Social } from '../../shared-ui/Typography';
 import {
@@ -12,11 +12,11 @@ import {
   Explanation,
 } from './styles';
 
-const WomenWhoCode = () => (
-  <Section id="womenWhoCode">
+const KatieUfal = () => (
+  <Section id="KatieUfal">
     <Article>
       <LogoLink href="https://ic.ufal.br/extensao/katie/" target="_blank">
-        <Logo src={WWCode} />
+        <Logo src={LogoKatie} />
       </LogoLink>
       <Context>
       Katie é um grupo formado por mulheres do Instituto de Computação da UFAL. 
@@ -29,7 +29,7 @@ const WomenWhoCode = () => (
     </Statement>
     <Explanation>
       Faça parte da comunidade, acompanhe os eventos e oportunidades!
-      <Social href="https://www.womenwhocode.com/" target="_blank">
+      <Social href="https://www.KatieUfal.com/" target="_blank">
         <PinkStrong> Conheça o site oficial do Katie Ufal! </PinkStrong>
       </Social>
       Cada cidade tem sua própria cultura única e líderes locais que se tornaram
@@ -39,4 +39,4 @@ const WomenWhoCode = () => (
   </Section>
 );
 
-export default WomenWhoCode;
+export default KatieUfal;
