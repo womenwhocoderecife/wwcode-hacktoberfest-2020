@@ -37,7 +37,7 @@ export default [
       {
         photo:'https://avatars.githubusercontent.com/u/22158657?v=4',
         name: 'Lilian Fabrício',
-        description:'',
+        description:'Estudante de Engenharia de Computação, da Universidade Federal de Alagoas',
         gitHub: 'https://github.com/lilianfabricio',
         linkedIn: '',
       },
