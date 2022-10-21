@@ -53,7 +53,7 @@ export default [
       {
         photo:'https://avatars.githubusercontent.com/u/51495537?v=4',
         name: 'Larissa Yasmim',
-        description:'',
+        description:'Desenvolvedora back-end aluna da Ada e pesquisadora de redes e sensores ambientais, estudante de engenharia quimica da UFAL',
         gitHub: '',
         linkedIn: '',
       }
