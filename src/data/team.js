@@ -142,7 +142,7 @@ export default [
     data: [
       {
         photo:
-          'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
+          'https://avatars.githubusercontent.com/u/22158657?v=4',
         name: 'Mayhhara Morais',
         description:
           'Dev em construção, apaixonada por Senhor dos Anéis e outras nerdeiras',
