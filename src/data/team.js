@@ -343,7 +343,7 @@ export default [
         name: 'Bruna Damaris Ramos',
         description:'Estudante de graduação de Engenharia de Computação da UFAL.',
         gitHub: 'https://github.com/BrunaDamaris',
-        linkedIn: 'https://www.linkedin.com/in/bruna-damaris-ramos-dos-santos-3301a6250/',
+        linkedIn: '',
       }
     ],
   },
