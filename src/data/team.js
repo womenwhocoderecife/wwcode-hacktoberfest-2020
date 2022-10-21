@@ -35,6 +35,13 @@ export default [
     subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
     data: [
       {
+        photo:'https://avatars.githubusercontent.com/u/22158657?v=4',
+        name: 'Lilian Fabrício',
+        description:'',
+        gitHub: '',
+        linkedIn: '',
+      },
+      {
         photo:
           'https://avatars0.githubusercontent.com/u/15926116?s=460&u=f80937c18b7fa651198d412d0e3bdd004977a9ef&v=4',
         name: 'Marina Barros',
@@ -50,6 +57,7 @@ export default [
         gitHub: 'https://github.com/BrunaDamaris',
         linkedIn: '',
       }
+      
     ],
   },
 ];
