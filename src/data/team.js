@@ -49,6 +49,13 @@ export default [
         description:'',
         gitHub: '',
         linkedIn: '',
+      },
+      {
+        photo:'https://avatars.githubusercontent.com/u/51495537?v=4',
+        name: '',
+        description:'',
+        gitHub: '',
+        linkedIn: '',
       }
     ],
   },
