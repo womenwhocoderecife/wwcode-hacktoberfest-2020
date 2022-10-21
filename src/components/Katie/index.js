@@ -3,13 +3,10 @@ import LogoKatie from '../../assets/images/logo-katie-2.png';
 import { Section } from '../../shared-ui/Layout';
 // import { Pink, Social } from '../../shared-ui/Typography';
 import {
-  Statement,
   LogoLink,
   Logo,
   Context,
-  PinkStrong,
   Article,
-  Explanation,
 } from './styles';
 
 const KatieUfal = () => (
