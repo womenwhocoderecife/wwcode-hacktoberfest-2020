@@ -1,8 +1,8 @@
 export default [
   {
-    title: 'Directors',
+    title: 'Diretoras',
     subtitle:
-      'Organiza eventos | Desenvolve Líderes | Colabora com o aumento do número de membros | Representa WWCode',
+      'Organiza eventos | Desenvolve Líderes | Colabora com o aumento do número de membros',
     data: [
       {
         photo:
@@ -42,79 +42,7 @@ export default [
     ],
   },
   {
-    title: 'Evangelists',
-    subtitle:
-      'Colabora com a divulgação da comunidade | Mídia social | Post de eventos | Anfitrião de divulgação | Blogs | Fotografia',
-    data: [
-      {
-        photo:
-          'https://avatars3.githubusercontent.com/u/48742480?s=460&u=f7a57f3983986bfd66908f46ddc3214452781180&v=4',
-        name: 'Aline Rosa',
-        description:
-          'Front-end Developer. Participa ativamente na comunidade de tecnologia, acredita no impacto social positivo que eles trazem. Apaixonado por viagens, colaboração e a causa de mulheres no mercado de tecnologia.',
-        gitHub: 'https://github.com/alinecbsr',
-        linkedIn: 'https://www.linkedin.com/in/alinecbsr/',
-      },
-      {
-        photo:
-          'https://avatars2.githubusercontent.com/u/51537583?s=400&u=1e4c500f1f25cc8526e241209b96d4ce9b2d5765&v=4',
-        name: 'Cleonice Celestino',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/Cleocelestino',
-        linkedIn: 'https://www.linkedin.com/in/cleonice-celestino/',
-      },
-    ],
-  },
-  {
-    title: 'Leads',
-    subtitle:
-      'iOS Lead | Rails Lead | Frontend Lead | Android Lead | Java Lead | Python Lead | jQuery Lead | Algo Lead | Analytics Lead',
-    data: [
-      {
-        photo:
-          'https://avatars1.githubusercontent.com/u/629029?s=400&u=017559e7f320ea97881b4d317638cbb9db26d7e4&v=4',
-        name: 'Willany Silva',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        gitHub: 'https://github.com/willany',
-        linkedIn: 'https://www.linkedin.com/in/willany-silva-abb14726/',
-      },
-      {
-        photo: 'https://avatars0.githubusercontent.com/u/47724428?s=400&u=e0e3645b28bd1ce540010620a246088a05457ae0&v=4',
-        name: 'Ilza Medeiros',
-        description:
-          'Desenvolvedora Front-end formada pela Women Who Code e Reprograma. Estudante de ADS na Uninassau. Amo viajar, café, Harry Potter e Star Wars!',
-        gitHub: 'https://github.com/ilzinha',
-        linkedIn: 'https://www.linkedin.com/in/ilza-medeiros/',
-      },
-      {
-        photo: 'https://avatars3.githubusercontent.com/u/40605122?s=460&u=1fd6c91cfc85e240ae5a6e662d60d38109eac85f&v=4',
-        name: 'Shirleide da Silva',
-        description: '💜 Apaixonada por TI desde meus 9 anos, atualmente Developer Full Stack',
-        gitHub: 'https://github.com/shirleide',
-        linkedIn: 'https://www.linkedin.com/in/shirleide/',
-      },
-      {
-        photo:
-          'https://avatars2.githubusercontent.com/u/47783317?s=460&u=36f0ab07c616034e0378e4c62796d08008931612&v=4',
-        name: 'Tathiane Pinto',
-        description:
-          'Fullstack Developer. Participando primeira vez do HacktoberFest, estou achando incrívrel, as meninas do Woman Who Code Recife são maravilhosas.',
-        gitHub: 'https://github.com/TathiClau',
-        linkedIn: 'https://www.linkedin.com/in/tathiane-pinto-b7a862105/',
-      },
-      {
-        photo: 'https://avatars2.githubusercontent.com/u/21042186?s=460&u=d0ca328dd655188f20082b281fd9594270d2bd96&v=4',
-        name: 'Myllena Alves',
-        description: 'Estudante de Sistemas de Informacão e desenvolvedora, estou contribuindo para o wwcode há mais de 1 ano, colaborando na mentoria do WomenDevProjects (track frontend) e ajudando em eventos',
-        gitHub: 'https://github.com/myllenaalves',
-        linkedIn: 'https://www.linkedin.com/in/myllena-alves-257544144/',
-      }
-    ],
-  },
-  {
-    title: 'Volunteers',
+    title: 'Voluntárias(os)',
     subtitle: 'Apoio para projeto ou evento',
     data: [
       {
@@ -137,7 +65,7 @@ export default [
     ],
   },
   {
-    title: 'Members',
+    title: 'Membras(os)',
     subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
     data: [
       {
