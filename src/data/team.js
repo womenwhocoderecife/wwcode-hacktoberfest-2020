@@ -340,7 +340,7 @@ export default [
       },
       {
         photo:'https://avatars.githubusercontent.com/u/38295264?v=4',
-        name: '',
+        name: 'Bruna Damaris Ramos dos Santos',
         description:'',
         gitHub: '',
         linkedIn: '',
