@@ -37,15 +37,22 @@ export default [
       {
         photo:'https://avatars.githubusercontent.com/u/22158657?v=4',
         name: 'Lilian Fabrício',
-        description:'',
-        gitHub: '',
-        linkedIn: '',
+        description:'Estudante de Engenharia de Computação, da Universidade Federal de Alagoas',
+        gitHub: 'https://github.com/lilianfabricio',
+        linkedIn: 'https://www.linkedin.com/in/lilian-neves-a0935a229/',
       },
       {
         photo:'https://avatars.githubusercontent.com/u/38295264?v=4',
         name: 'Bruna Damaris Ramos',
         description:'Estudante de graduação de Engenharia de Computação da UFAL.',
         gitHub: 'https://github.com/BrunaDamaris',
+        linkedIn: '',
+      },
+      {
+        photo:'https://avatars.githubusercontent.com/u/51495537?v=4',
+        name: 'Larissa Yasmim',
+        description:'',
+        gitHub: '',
         linkedIn: '',
       }
       
