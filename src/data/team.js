@@ -42,15 +42,6 @@ export default [
         linkedIn: '',
       },
       {
-        photo:
-          'https://avatars0.githubusercontent.com/u/15926116?s=460&u=f80937c18b7fa651198d412d0e3bdd004977a9ef&v=4',
-        name: 'Marina Barros',
-        description:
-          'Programadora iOS ex aluna do Developer Academy, estudante do curso Ciência da Computação da UFPE.',
-        gitHub: 'https://github.com/marina-barros',
-        linkedIn: 'https://www.linkedin.com/in/marina-barros-80b582173/',
-      },
-      {
         photo:'https://avatars.githubusercontent.com/u/38295264?v=4',
         name: 'Bruna Damaris Ramos',
         description:'Estudante de graduação de Engenharia de Computação da UFAL.',
