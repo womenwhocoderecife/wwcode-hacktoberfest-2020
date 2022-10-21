@@ -36,7 +36,7 @@ export default [
     data: [
       {
         photo:'https://avatars.githubusercontent.com/u/22158657?v=4',
-        name: '',
+        name: 'Lilian Fabrício',
         description:'',
         gitHub: '',
         linkedIn: '',
