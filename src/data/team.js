@@ -56,6 +56,13 @@ export default [
         description:'Estudante de graduação de Engenharia de Computação da UFAL.',
         gitHub: 'https://github.com/BrunaDamaris',
         linkedIn: '',
+      },
+      {
+        photo:'https://avatars.githubusercontent.com/u/51495537?v=4',
+        name: '',
+        description:'',
+        gitHub: '',
+        linkedIn: '',
       }
       
     ],
