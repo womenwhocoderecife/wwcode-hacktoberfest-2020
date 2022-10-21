@@ -35,6 +35,13 @@ export default [
     subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
     data: [
       {
+        photo:'https://avatars.githubusercontent.com/u/22158657?v=4',
+        name: 'Lilian Fabrício',
+        description:'Estudante de Engenharia de Computação, da Universidade Federal de Alagoas',
+        gitHub: 'https://github.com/lilianfabricio',
+        linkedIn: 'https://www.linkedin.com/in/lilian-neves-a0935a229/',
+      },
+      {
         photo:
           'https://avatars0.githubusercontent.com/u/15926116?s=460&u=f80937c18b7fa651198d412d0e3bdd004977a9ef&v=4',
         name: 'Marina Barros',
@@ -45,11 +52,19 @@ export default [
       },
       {
         photo:'https://avatars.githubusercontent.com/u/38295264?v=4',
+        name: 'Bruna Damaris Ramos',
+        description:'Estudante de graduação de Engenharia de Computação da UFAL.',
+        gitHub: 'https://github.com/BrunaDamaris',
+        linkedIn: '',
+      },
+      {
+        photo:'https://avatars.githubusercontent.com/u/51495537?v=4',
         name: '',
         description:'',
         gitHub: '',
         linkedIn: '',
       }
+      
     ],
   },
 ];
