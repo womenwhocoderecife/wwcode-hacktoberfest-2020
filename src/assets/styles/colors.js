@@ -3,7 +3,8 @@ export const colors = {
   neutralDark: '#000000',
   neutralLight: '#93C2DB',
 
-  primary: '#9092FF',
+  primary: '#FDD54F',
+  // primary: '#9092FF',
   primaryLighter: '#170F1E',
   primaryHighLight: '#F8049C',
   primaryDark: '#1F1F24',
