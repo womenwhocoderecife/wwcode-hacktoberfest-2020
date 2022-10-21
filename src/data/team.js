@@ -46,9 +46,9 @@ export default [
       {
         photo:'https://avatars.githubusercontent.com/u/38295264?v=4',
         name: 'Bruna Damaris Ramos',
-        description:'',
-        gitHub: '',
-        linkedIn: '',
+        description:'Estudante de graduação de Engenharia de Computação da UFAL.',
+        gitHub: 'https://github.com/BrunaDamaris',
+        linkedIn: 'https://www.linkedin.com/in/bruna-damaris-ramos-dos-santos-3301a6250/',
       }
     ],
   },
