@@ -39,7 +39,7 @@ export default [
         name: 'Lilian Fabrício',
         description:'Estudante de Engenharia de Computação, da Universidade Federal de Alagoas',
         gitHub: 'https://github.com/lilianfabricio',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/lilian-neves-a0935a229/',
       },
       {
         photo:
