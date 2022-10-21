@@ -16,7 +16,13 @@ import {
   Icon,
 } from '../../../shared-ui/Typography';
 
-const Session = ({ data, title = 'Directors', subtitle }) => (
+const OCCUPATION = {
+  'Diretoras': 'Diretora',
+  'Voluntárias(os)': 'Voluntária(o)',
+  'Membras(os)': 'Membra(o)',
+}
+
+const Session = ({ data, title = 'Diretora', subtitle }) => (
   <Content>
     <Title>{title}</Title>
     <Function>{subtitle}</Function>
@@ -26,7 +32,7 @@ const Session = ({ data, title = 'Directors', subtitle }) => (
           <Card key={Math.random()}>
             <Photo src={user.photo} alt={user.name} />
             <Name>{user.name}</Name>
-            <Participation>{title.slice(0, -1)}</Participation>
+            <Participation>{OCCUPATION[title]}</Participation>
             <Description>{user.description}</Description>
             <SocialContext>
               <Social href={user.gitHub} target="_blank">
