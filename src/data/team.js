@@ -54,6 +54,13 @@ export default [
         description:'Desenvolvedora back-end aluna da Ada e pesquisadora de redes e sensores ambientais, estudante de engenharia quimica da UFAL',
         gitHub: 'https://github.com/lyalbat',
         linkedIn: 'https://www.linkedin.com/in/larissa-yasmim-alves-batista-6b1523146/',
+      },
+      {
+        photo:'https://avatars.githubusercontent.com/u/44387993?v=4',
+        name: '',
+        description:'',
+        gitHub: '',
+        linkedIn: '',
       }
       
     ],
