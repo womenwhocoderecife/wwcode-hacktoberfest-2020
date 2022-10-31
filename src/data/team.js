@@ -58,8 +58,8 @@ export default [
       {
         photo:'https://avatars.githubusercontent.com/u/44387993?v=4',
         name: 'Luana Júlia Ferreira',
-        description:'Computer Engineering Student at UFAL',
-        gitHub: 'https://github.com/ferreiraluana',
+        description:'Computer Engineering Student at UFAL, Researcher at Ford Motor Company sponsored by IEL',
+        gitHub: '',
         linkedIn: '',
       }
       
