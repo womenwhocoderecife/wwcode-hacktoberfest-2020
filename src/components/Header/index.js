@@ -70,20 +70,20 @@ export default function Header() {
             </ListItem>
             <ListItem>
               <ListLink
-                href="#womenWhoCode"
+                href="#katieufal"
                 activeSection={activeSection}
                 onClick={() => setMenuVisibility(false)}
               >
-                Women Who Code
+                Katie Ufal
               </ListLink>
             </ListItem>
             <ListItem>
               <ListLink
-                href="#WWCodeRecife"
+                href="#team"
                 activeSection={activeSection}
                 onClick={() => setMenuVisibility(false)}
               >
-                WWCode Recife
+                Organização
               </ListLink>
             </ListItem>
             <ListItem>
@@ -92,7 +92,7 @@ export default function Header() {
                 activeSection={activeSection}
                 onClick={() => setMenuVisibility(false)}
               >
-                Hacktoberfest 2020
+                Hacktoberfest 2022
               </ListLink>
             </ListItem>
           </NavList>

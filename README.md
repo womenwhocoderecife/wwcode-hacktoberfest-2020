@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-<h3 align="center">"... Se você é uma pessoa desenvolvedora, estudante aprendendo a programar, anfitrião de eventos ou empresa de qualquer tamanho, você pode ajudar a impulsionar o crescimento do código aberto e fazer contribuições positivas para uma comunidade cada vez maior"</h3><p align="end">(Conteúdo do site oficial do <a href="https://www.digitalocean.com/" target="_blank">Hacktoberfest 2020</a>)</p>
+<h3 align="center">"... Se você é uma pessoa desenvolvedora, estudante aprendendo a programar, anfitrião de eventos ou empresa de qualquer tamanho, você pode ajudar a impulsionar o crescimento do código aberto e fazer contribuições positivas para uma comunidade cada vez maior"</h3><p align="end">(Conteúdo do site oficial do <a href="https://www.digitalocean.com/" target="_blank">Hacktoberfest 2022</a>)</p>
 <br/>
 <h4>🌎  No intuito de colaborar e incentivar a participação de mais mulheres na comunidade  open source , um pull request  por vez, nós do <a href="https://www.womenwhocode.com/recife" target="_blank">Women Who Code Recife</a>, criamos um projeto para participarmos desta causa incrível, e toda comunidade poder colaborar com o projeto e completar os desafios </h4>
 <br/>
@@ -33,24 +33,24 @@
 <br/> 
 <p align="center">📲  <strong>Conheça e nos acompanhe em nossas redes sociais:</strong></p>
 <h3 align="center">
-  <a href="https://github.com/womenwhocoderecife" target="_blank" width="80px" align="center">
+  <a href="https://github.com/GrupoKatie" target="_blank" width="80px" align="center">
     <img alt="Github" src=".github/github.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.linkedin.com/company/women-who-code-recife/" target="_blank" width="80px" align="center">
+  <a href="https://www.linkedin.com/company/katie.ufal/" target="_blank" width="80px" align="center">
     <img alt="Linkedin" src=".github/linkedin.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.meetup.com/pt-BR/Women-Who-Code-Recife/" target="_blank" width="80px" align="center">
+  <!-- <a href="https://www.meetup.com/pt-BR/Women-Who-Code-Recife/" target="_blank" width="80px" align="center">
     <img alt="Meetup" src=".github/meetup.svg" width="30px" align="center"/>
-  </a>
-  <a href="https://www.instagram.com/wwcoderecife" target="_blank" width="80px" align="center">
+  </a> -->
+  <a href="https://www.instagram.com/katie.ufal" target="_blank" width="80px" align="center">
     <img alt="Instagram" src=".github/instagram.svg" width="30px" align="center"/>
   </a>
-  <a href="https://www.facebook.com/groups/wwcrecife/" target="_blank" width="80px" align="center">
+  <!-- <a href="https://www.facebook.com/groups/wwcrecife/" target="_blank" width="80px" align="center">
     <img alt="Facebook" src=".github/faceb00k.svg" width="30px" align="center"/>
-  </a>
-  <a href="https://twitter.com/WWCode_Recife" target="_blank" width="80px" align="center">
+  </a> -->
+  <!-- <a href="https://twitter.com/WWCode_Recife" target="_blank" width="80px" align="center">
     <img alt="Twitter" src=".github/twitter.svg" width="30px" align="center"/>
-  </a>
+  </a> -->
   <a href="https://discord.gg/vNfAb4" target="_blank" width="80px" align="center">
     <img alt="Twitter" src=".github/discord.svg" width="30px" align="center"/>
   </a>
@@ -79,7 +79,7 @@
 ## :computer: Projeto
 
 <br/>
-<p>O projeto consiste em uma aplicação one-page que foi inspirado na página oficial do Hacktoberfest 2020.<br/> Nesta aplicação apresentamos o Hacktoberfest, Women Who Code e o <storng>Women Who Code Recife</storng>.</p>
+<p>O projeto consiste em uma aplicação one-page que foi inspirado na página oficial do Hacktoberfest 2022.<br/> Nesta aplicação apresentamos o Hacktoberfest, Women Who Code e o <storng>Women Who Code Recife</storng>.</p>
 <p>Logo abaixo uma seção onde é possível identificar um menu com categorias de partição na comunidade. Neste projeto cada pessoa poderá contribuir acrescentando um card na categoria de participação em que se identifica no WWCode Recife: Directors, Evangelists, Leads, Volunteers e Members.</p>
 <br/>
 <br/>
