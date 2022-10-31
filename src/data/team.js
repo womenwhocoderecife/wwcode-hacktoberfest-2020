@@ -18,7 +18,7 @@ export default [
   },
   {
     title: 'Voluntárias(os)',
-    subtitle: 'Apoio para projeto e/ou evento',
+    subtitle: 'Apoio para projeto ou evento',
     data: [
       {
         photo:
@@ -32,7 +32,7 @@ export default [
   },
   {
     title: 'Membras(os)',
-    subtitle: 'Acompanham a comunidade nas redes sociais e participam de eventos',
+    subtitle: 'Acompanha a comunidade nas redes sociais e participe de eventos',
     data: [
       {
         photo:'https://avatars.githubusercontent.com/u/22158657?v=4',
@@ -58,9 +58,9 @@ export default [
       {
         photo:'https://avatars.githubusercontent.com/u/44387993?v=4',
         name: 'Luana Júlia Ferreira',
-        description:'Computer Engineering Student at UFAL, Researcher at Ford Motor Company sponsored by IEL',
+        description:'Computer Engineering Student at UFAL, Researcher at Ford Motor Company sponsored by IEL, handball player for fun :)',
         gitHub: 'https://github.com/ferreiraluana',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/luana-ferreira-4b340a20b/',
       }
       
     ],
