@@ -57,7 +57,7 @@ export default [
       },
       {
         photo:'https://avatars.githubusercontent.com/u/44387993?v=4',
-        name: '',
+        name: 'Luana Ferreira',
         description:'',
         gitHub: '',
         linkedIn: '',
