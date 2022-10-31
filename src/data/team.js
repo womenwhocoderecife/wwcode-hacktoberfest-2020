@@ -60,7 +60,7 @@ export default [
         name: 'Luana Júlia Ferreira',
         description:'Computer Engineering Student at UFAL',
         gitHub: 'https://github.com/ferreiraluana',
-        linkedIn: '',
+        linkedIn: 'https://www.linkedin.com/in/luana-ferreira-4b340a20b/',
       }
       
     ],
