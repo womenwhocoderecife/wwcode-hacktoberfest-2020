@@ -43,7 +43,7 @@
 <br/>
 <h5>✨ Você precisa fazer um fork do repositório do Women Who Code. Segue o link:</h5>
 
-[Women Who Code](https://github.com/womenwhocoderecife/wwcode-hacktoberfest-2020)
+[Women Who Code](https://github.com/GrupoKatie/katie-hacktoberfest-2022)
 
 <h6>⚠️ Isto irá criar uma cópia para o seu repositório</h6>
 
@@ -58,13 +58,13 @@
 <h5>✨ Abra o terminal. Primeiro vamos criar uma pasta para o WW Code. </h5>
 <h6>⚠️ Digite o comando abaixo e aperte Enter: </h6>
 
-```mkdir wwcode```
+```mkdir katie```
 <br/>
 <br/>
 <h5>✨ Agora vamos entrar nesta pasta.</h5>
 <h6>⚠️ Digite o comando abaixo e aperte Enter: </h6>
 
-```cd wwcode```
+```cd katie```
 <br/>
 <br/>
 <h5>✨ No terminal, digite:</h5>
@@ -73,12 +73,12 @@
 
 <h6>⚠️ Clique com o botão direito do mouse e cole o link copiado. Deverá ficar assim: </h6> 
 
- ```git clone https://github.com/SEU-USUÁRIO-DO-GITHUB/wwcode-hacktoberfest-2020.git```
+ ```git clone https://github.com/SEU-USUÁRIO-DO-GITHUB/katie-hacktoberfest-2022.git```
 <br/>
 <br/>
 <h5>✨ Agora vamos entrar na pasta clonada. Digite o comando abaixo e aperte Enter</h5>
 
-```cd wwcode-hacktoberfest-2020```
+```cd katie-hacktoberfest-2022```
 <br/>
 <br/>
 <h5>✨ Para instalar as dependências necessárias no repositório local, digite um dos comandos abaixo: </h5>

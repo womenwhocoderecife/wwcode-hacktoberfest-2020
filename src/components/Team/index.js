@@ -7,7 +7,7 @@ const Team = () => {
   const [index, setIndex] = useState(0);
 
   return (
-    <TeamContainer>
+    <TeamContainer id="team">
       <TeamNav>
         {team.map(({ title }, index) => (
           <TeamLink onClick={() => setIndex(index)} key={index}>

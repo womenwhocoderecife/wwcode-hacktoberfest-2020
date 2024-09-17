@@ -32,6 +32,6 @@ export const TeamLink = styled.a`
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: ${fonts.alpha};
-  color: ${colors.neutral};
+  color: ${colors.neutralDark};
   cursor: pointer;
 `;
